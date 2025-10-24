@@ -1,0 +1,97 @@
+﻿Date,Registration,Call Sign,Flight Direction,Marketing Airline Desc,Non-PA Airport,Body Type Desc,Gate,Terminal Code,Total Gate Occ Time,Departure Runway,Block Schedule,Block Actual,Total Calculated Delay,Total  Movement Time,Total Ramp Time,Total Taxi Time Calc,Off Scheduled,Off Actual
+2025-06-07 00:00:00,C-GJYC,ACA707,Rejected Take-off,Air Canada,YYZ,Narrow Body,Gate_TB_51,Terminal B,,22,,,0,,,,2025-06-07 10:40:00,2025-06-07 11:53:00
+2025-07-01 00:00:00,C-GJXN,ACA713,Rejected Take-off,Air Canada,YYZ,Narrow Body,Gate_TB_51,Terminal B,,13-22,,,0,,,,2025-07-01 16:00:00,
+2025-05-25 00:00:00,N416YX,RPA4792,Rejected Take-off,American Airlines,ILM,Commuter,Gate_TB_22,Terminal B,,4,,,0,,,,2025-05-25 20:32:00,2025-05-25 20:20:00
+2025-06-07 00:00:00,N755US,AAL605,Rejected Take-off,American Airlines,MIA,Narrow Body,Gate_TB_11,Terminal B,,22,,,0,,,,2025-06-07 13:37:00,2025-06-07 15:04:00
+2025-06-07 00:00:00,N422YX,RPA4347,Rejected Take-off,American Airlines,YYZ,Commuter,Gate_TB_18,Terminal B,,22,,,0,,,,2025-06-07 09:02:00,2025-06-07 14:24:00
+2025-06-09 00:00:00,N405YX,RPA4644,Rejected Take-off,American Airlines,LIT,Commuter,Gate_TB_20,Terminal B,,13,,,0,,,,2025-06-09 20:53:00,
+2025-06-09 00:00:00,N861RW,RPA4674,Rejected Take-off,American Airlines,TYS,Commuter,Gate_TB_20,Terminal B,,13,,,0,,,,2025-06-09 21:23:00,2025-06-09 23:39:00
+2025-06-19 00:00:00,N890NN,AAL396,Rejected Take-off,American Airlines,ORD,Narrow Body,Gate_TB_27,Terminal B,,13,,,0,,,,2025-06-19 17:07:00,2025-06-19 21:44:00
+2025-06-25 00:00:00,N132HQ,RPA4342,Rejected Take-off,American Airlines,XNA,Commuter,Gate_TB_28,Terminal B,,4,,,0,,,,2025-06-25 14:24:00,
+2025-06-26 00:00:00,N111HQ,RPA4410,Rejected Take-off,American Airlines,PIT,Commuter,Gate_TB_26,Terminal B,,13,,,0,,,,2025-06-26 18:26:00,2025-06-26 19:37:00
+2025-06-26 00:00:00,N122HQ,RPA4471,Rejected Take-off,American Airlines,PBI,Commuter,Gate_TB_17,Terminal B,,13,,,0,,,,2025-06-26 14:56:00,
+2025-06-27 00:00:00,N112HQ,RPA4758,Rejected Take-off,American Airlines,ILM,Commuter,Gate_TB_16,Terminal B,,13,,,0,,,,2025-06-27 16:10:00,2025-06-27 19:41:00
+2025-07-03 00:00:00,N338RS,AAL3208,Rejected Take-off,American Airlines,TPA,Narrow Body,Gate_TB_15,Terminal B,,Unknown,,,0,,,,2025-07-03 08:27:00,2025-07-03 08:15:00
+2025-07-03 00:00:00,N121HQ,RPA4348,Rejected Take-off,American Airlines,CLE,Commuter,Gate_TB_31,Terminal B,,22-31,,,0,,,,2025-07-03 16:11:00,
+2025-07-03 00:00:00,N414YX,RPA4395,Rejected Take-off,American Airlines,DSM,Commuter,Gate_TB_18,Terminal B,,31-4,,,0,,,,2025-07-03 17:39:00,
+2025-07-03 00:00:00,N417YX,RPA4436,Rejected Take-off,American Airlines,RDU,Commuter,Gate_TB_20,Terminal B,,4,,,0,,,,2025-07-03 19:52:00,
+2025-07-03 00:00:00,N138HQ,RPA4526,Rejected Take-off,American Airlines,OKC,Commuter,Gate_TB_18,Terminal B,,4,,,0,,,,2025-07-03 20:10:00,
+2025-07-13 00:00:00,N334TL,AAL1582,Rejected Take-off,American Airlines,ORD,Narrow Body,Gate_TB_15,Terminal B,,13,,,0,,,,2025-07-13 20:43:00,2025-07-14 00:17:00
+2025-07-13 00:00:00,N802NN,AAL3237,Rejected Take-off,American Airlines,MIA,Narrow Body,Gate_TB_16,Terminal B,,13,,,0,,,,2025-07-13 22:24:00,
+2025-07-18 00:00:00,N122NN,AAL3280,Rejected Take-off,American Airlines,CLT,Narrow Body,Gate_TB_20,Terminal B,,13-4-13-4,,,0,,,,2025-07-18 16:01:00,2025-07-18 19:48:00
+2025-07-18 00:00:00,N111HQ,RPA4358,Rejected Take-off,American Airlines,ORF,Commuter,Gate_TB_27,Terminal B,,13,,,0,,,,2025-07-18 16:11:00,2025-07-18 21:28:00
+2025-07-18 00:00:00,N103HQ,RPA4661,Rejected Take-off,American Airlines,YUL,Commuter,Gate_TB_24,Terminal B,,13-4-13-4,,,0,,,,2025-07-18 15:33:00,2025-07-18 19:40:00
+2025-07-20 00:00:00,N103HQ,RPA4736,Rejected Take-off,American Airlines,DCA,Commuter,Gate_TB_15,LGA-Unknown,,13,,,0,,,,2025-07-20 17:36:00,2025-07-20 21:19:00
+2025-07-25 00:00:00,N428YX,RPA4618,Rejected Take-off,American Airlines,CVG,Commuter,Gate_TB_19,Terminal B,,31,,,0,,,,2025-07-25 20:18:00,2025-07-25 20:43:00
+2025-07-27 00:00:00,N430YX,RPA4773,Rejected Take-off,American Airlines,DCA,Commuter,Gate_TB_28,Terminal B,,13,,,0,,,,2025-07-27 13:46:00,2025-07-27 19:28:00
+2025-07-30 00:00:00,N437YX,RPA4395,Rejected Take-off,American Airlines,DSM,Commuter,Gate_TB_19,Terminal B,,13,,,0,,,,2025-07-30 17:39:00,
+2025-07-31 00:00:00,N336TM,AAL605,Rejected Take-off,American Airlines,MIA,Narrow Body,Gate_TB_11,Terminal B,,Unknown,,,0,,,,2025-07-31 13:27:00,2025-07-31 18:05:00
+2025-07-31 00:00:00,N437YX,RPA4379,Rejected Take-off,American Airlines,BNA,Commuter,Gate_TB_30,Terminal B,,13-4,,,0,,,,2025-07-31 12:38:00,2025-07-31 18:38:00
+2025-05-23 00:00:00,N211JQ,RPA5738,Rejected Take-off,Delta Air Lines,BOS,Commuter,Gate_93,Terminal C,,4,,,0,,,,2025-05-23 18:28:00,2025-05-23 21:05:00
+2025-05-28 00:00:00,N922XJ,EDV5360,Rejected Take-off,Delta Air Lines,RIC,Commuter,Gate_66,Terminal C,,13,,,0,,,,2025-05-28 16:30:00,2025-05-28 18:13:00
+2025-06-07 00:00:00,N117DX,DAL2321,Rejected Take-off,Delta Air Lines,FLL,Narrow Body,Gate_82,LGA-Unknown,,22,,,0,,,,2025-06-07 15:29:00,2025-06-07 16:53:00
+2025-06-07 00:00:00,N305DN,DAL2349,Rejected Take-off,Delta Air Lines,MSP,Narrow Body,Gate_84,Terminal C,,22,,,0,,,,2025-06-07 15:29:00,2025-06-07 19:55:00
+2025-06-07 00:00:00,N108DQ,DAL2891,Rejected Take-off,Delta Air Lines,ORD,Narrow Body,Gate_93,Terminal C,,22,,,0,,,,2025-06-07 15:15:00,2025-06-07 16:22:00
+2025-06-07 00:00:00,N582CA,EDV5094,Rejected Take-off,Delta Air Lines,YYZ,Commuter,Gate_63,Terminal C,,22,,,0,,,,2025-06-07 12:15:00,2025-06-07 12:26:00
+2025-06-07 00:00:00,N919XJ,EDV5252,Rejected Take-off,Delta Air Lines,OMA,Commuter,Gate_66,Terminal C,,22,,,0,,,,2025-06-07 12:49:00,2025-06-07 13:53:00
+2025-06-07 00:00:00,N925XJ,EDV5393,Rejected Take-off,Delta Air Lines,BTV,Commuter,Gate_66,Terminal C,,4-4,,,0,,,,2025-06-07 17:16:00,2025-06-07 20:52:00
+2025-06-07 00:00:00,N930XJ,EDV5483,Rejected Take-off,Delta Air Lines,TVC,Commuter,Gate_93,Terminal C,,22,,,0,,,,2025-06-07 10:18:00,2025-06-07 11:29:00
+2025-06-07 00:00:00,N240JQ,RPA5771,Rejected Take-off,Delta Air Lines,MSN,Commuter,Gate_96,Terminal C,,22,,,0,,,,2025-06-07 13:34:00,2025-06-07 20:05:00
+2025-06-09 00:00:00,N3749D,DAL2460,Rejected Take-off,Delta Air Lines,PBI,Narrow Body,Gate_78,Terminal C,,13,,,0,,,,2025-06-09 17:27:00,
+2025-06-16 00:00:00,N904XJ,EDV4936,Rejected Take-off,Delta Air Lines,BHM,Commuter,Gate_74,Terminal C,,13,,,0,,,,2025-06-16 09:07:00,2025-06-16 10:13:00
+2025-06-21 00:00:00,N335PQ,EDV5004,Rejected Take-off,Delta Air Lines,GSP,Commuter,Gate_63,Terminal C,,22,,,0,,,,2025-06-21 16:52:00,2025-06-21 20:58:00
+2025-06-28 00:00:00,N316DU,DAL2891,Rejected Take-off,Delta Air Lines,ORD,Narrow Body,Gate_63,Terminal C,,22,,,0,,,,2025-06-28 15:20:00,2025-06-28 16:15:00
+2025-07-01 00:00:00,N207JQ,RPA5646,Rejected Take-off,Delta Air Lines,IND,Commuter,Gate_88B,Terminal C,,13,,,0,,,,2025-07-01 15:40:00,2025-07-01 21:45:00
+2025-07-03 00:00:00,N916XJ,EDV5173,Rejected Take-off,Delta Air Lines,YYZ,Commuter,Gate_63,Terminal C,,31-4,,,0,,,,2025-07-03 16:30:00,
+2025-07-08 00:00:00,N384DN,DAL1008,Rejected Take-off,Delta Air Lines,FLL,Narrow Body,Gate_78,Terminal C,,31,,,0,,,,2025-07-08 15:46:00,2025-07-08 15:48:00
+2025-07-08 00:00:00,N931XJ,EDV4923,Rejected Take-off,Delta Air Lines,MEM,Commuter,Gate_75,Terminal C,,13-31-13-31,,,0,,,,2025-07-08 15:01:00,2025-07-08 20:21:00
+2025-07-09 00:00:00,N124DX,DAL2520,Rejected Take-off,Delta Air Lines,MCO,Narrow Body,Gate_77,Terminal C,,13-22,,,0,,,,2025-07-09 16:09:00,2025-07-09 16:35:00
+2025-07-13 00:00:00,N3748Y,DAL2460,Rejected Take-off,Delta Air Lines,PBI,Narrow Body,Gate_73,Terminal C,,13,,,0,,,,2025-07-13 16:10:00,2025-07-13 21:31:00
+2025-07-15 00:00:00,N924XJ,EDV5047,Rejected Take-off,Delta Air Lines,CLT,Commuter,Gate_77,Terminal C,,13,,,0,,,,2025-07-15 17:26:00,2025-07-15 20:03:00
+2025-07-20 00:00:00,N185GJ,EDV4905,Rejected Take-off,Delta Air Lines,STL,Commuter,Gate_80,Terminal C,,13,,,0,,,,2025-07-20 14:42:00,
+2025-07-20 00:00:00,N676CA,EDV5334,Rejected Take-off,Delta Air Lines,CVG,Commuter,*TC_71,Terminal C,,13-31,,,0,,,,2025-07-20 16:37:00,2025-07-20 21:58:00
+2025-07-25 00:00:00,N181GJ,EDV4923,Rejected Take-off,Delta Air Lines,MEM,Commuter,Gate_62,Terminal C,,31-4,,,0,,,,2025-07-25 14:43:00,
+2025-07-25 00:00:00,N137EV,EDV5030,Rejected Take-off,Delta Air Lines,CVG,Commuter,Gate_74,Terminal C,,31-31,,,0,,,,2025-07-25 14:53:00,2025-07-25 20:14:00
+2025-07-25 00:00:00,N902XJ,EDV5147,Rejected Take-off,Delta Air Lines,YUL,Commuter,Gate_75,Terminal C,,31-31,,,0,,,,2025-07-25 14:57:00,
+2025-07-27 00:00:00,N325PQ,EDV5437,Rejected Take-off,Delta Air Lines,CHS,Commuter,*TC_71,Terminal C,,13-22,,,0,,,,2025-07-27 07:17:00,2025-07-27 07:21:00
+2025-07-28 00:00:00,N111DC,DAL969,Rejected Take-off,Delta Air Lines,ATL,Narrow Body,Gate_82,Terminal C,,4,,,0,,,,2025-07-28 16:33:00,2025-07-28 21:10:00
+2025-07-29 00:00:00,N479PX,EDV5186,Rejected Take-off,Delta Air Lines,ILM,Commuter,Gate_67,Terminal C,,13,,,0,,,,2025-07-29 09:26:00,2025-07-29 10:56:00
+2025-07-30 00:00:00,N119DU,DAL2760,Rejected Take-off,Delta Air Lines,ORD,Narrow Body,Gate_95,Terminal C,,13-13,,,0,,,,2025-07-30 17:32:00,2025-07-30 21:42:00
+2025-07-30 00:00:00,N392DN,DAL999,Rejected Take-off,Delta Air Lines,DTW,Narrow Body,Gate_79,Terminal C,,13-13,,,0,,,,2025-07-30 17:38:00,2025-07-30 23:35:00
+2025-07-30 00:00:00,N201JQ,RPA5797,Rejected Take-off,Delta Air Lines,BUF,Commuter,Gate_81,Terminal C,,13,,,0,,,,2025-07-31 00:06:00,2025-07-31 00:04:00
+2025-07-31 00:00:00,N133DU,DAL2068,Rejected Take-off,Delta Air Lines,MCI,Narrow Body,Gate_68,Terminal C,,13-4,,,0,,,,2025-07-31 14:32:00,2025-07-31 18:58:00
+2025-07-31 00:00:00,N203JQ,RPA5724,Rejected Take-off,Delta Air Lines,CLT,Commuter,Gate_83,Terminal C,,Unknown,,,0,,,,2025-07-31 14:25:00,2025-07-31 18:27:00
+2025-08-09 00:00:00,N235JQ,RPA5675,Rejected Take-off,Delta Air Lines,CHS,Commuter,Gate_89A,LGA-Unknown,,22,,,0,,,,2025-08-09 17:01:00,2025-08-09 17:13:00
+2025-08-09 00:00:00,N927XJ,EDV4929,Rejected Take-off,Delta Air Lines,PWM,Commuter,Gate_74,Terminal C,,22,,,0,,,,2025-08-09 16:19:00,2025-08-09 17:16:00
+2025-08-14 00:00:00,N915XJ,EDV5089,Rejected Take-off,Delta Air Lines,CAE,Commuter,Gate_76,Terminal C,,13,,,0,,,,2025-08-14 14:23:00,2025-08-14 19:34:00
+2025-08-17 00:00:00,N904XJ,EDV4994,Rejected Take-off,Delta Air Lines,GSP,Commuter,Gate_61,Terminal C,,31,,,0,,,,2025-08-17 08:31:00,2025-08-17 10:38:00
+2025-08-18 00:00:00,N139DU,DAL2760,Rejected Take-off,Delta Air Lines,ORD,Narrow Body,Gate_84,Terminal C,,13,,,0,,,,2025-08-18 18:28:00,
+2025-08-22 00:00:00,N181PQ,EDV5046,Rejected Take-off,Delta Air Lines,CLT,Commuter,Gate_64,Terminal C,,13-4,,,0,,,,2025-08-22 10:32:00,2025-08-22 10:37:00
+2025-06-18 00:00:00,N622FR,FFT3091,Rejected Take-off,Frontier Airlines,CLE,Narrow Body,Gate_TB_42,Terminal B,,13-22,,,0,,,,2025-06-18 18:27:00,2025-06-18 23:18:00
+2025-06-25 00:00:00,N307FR,FFT4347,Rejected Take-off,Frontier Airlines,ATL,Narrow Body,Gate_TB_42,Terminal B,,4,,,0,,,,2025-06-25 13:26:00,
+2025-06-30 00:00:00,N232FR,FFT4347,Rejected Take-off,Frontier Airlines,ATL,Narrow Body,Gate_TB_42,Terminal B,,13,,,0,,,,2025-06-30 13:39:00,
+2025-05-31 00:00:00,N520JB,JBU399,Rejected Take-off,JetBlue Airways,MCO,Narrow Body,Gate_TB_58_58A,Terminal B,,31,,,0,,,,2025-05-31 14:10:00,2025-05-31 18:40:00
+2025-06-07 00:00:00,N535JB,JBU699,Rejected Take-off,JetBlue Airways,MCO,Narrow Body,Gate_TB_58_58A,Terminal B,,13,,,0,,,,2025-06-07 17:05:00,2025-06-07 19:46:00
+2025-06-10 00:00:00,N639JB,JBU8353,Rejected Take-off,JetBlue Airways,LGA,Narrow Body,Gate_TB_53,Terminal B,,13-4,,,0,,,,2025-06-10 09:40:00,2025-06-10 19:08:00
+2025-08-16 00:00:00,N531JL,JBU1471,Rejected Take-off,JetBlue Airways,FLL,Narrow Body,Gate_TB_58_58A,Terminal B,,13,,,0,,,,2025-08-16 07:22:00,2025-08-16 10:33:00
+2025-08-22 00:00:00,N561JB,JBU499,Rejected Take-off,JetBlue Airways,MCO,Narrow Body,Gate_TB_55,Terminal B,,13-4-13-4,,,0,,,,2025-08-22 11:12:00,2025-08-22 14:57:00
+2025-06-07 00:00:00,N8801Q,SWA2302,Rejected Take-off,Southwest Airlines,DAL,Narrow Body,Gate_TB_57,Terminal B,,22,,,0,,,,2025-06-07 14:07:35,2025-06-07 14:47:00
+2025-06-07 00:00:00,N8942L,SWA3561,Rejected Take-off,Southwest Airlines,MDW,Narrow Body,Gate_TB_54,Terminal B,,22,,,0,,,,2025-06-07 14:17:00,2025-06-07 18:06:00
+2025-06-08 00:00:00,N8535S,SWA1571,Rejected Take-off,Southwest Airlines,MCI,Narrow Body,Gate_TB_54,Terminal B,,13,,,0,,,,2025-06-08 14:43:53,2025-06-08 17:53:00
+2025-06-10 00:00:00,N8917Q,SWA2233,Rejected Take-off,Southwest Airlines,ATL,Narrow Body,Gate_TB_56,Terminal B,,13,,,0,,,,2025-06-10 08:17:00,2025-06-10 13:07:00
+2025-07-03 00:00:00,N8871Q,SWA505,Rejected Take-off,Southwest Airlines,MDW,Narrow Body,Gate_TB_57,Terminal B,,31-4,,,0,,,,2025-07-03 15:57:39,2025-07-03 21:47:00
+2025-07-12 00:00:00,N8698B,SWA2913,Rejected Take-off,Southwest Airlines,ATL,Narrow Body,Gate_TB_57,Terminal B,,13,,,0,,,,2025-07-12 17:09:53,2025-07-12 23:28:00
+2025-07-21 00:00:00,N8711Q,SWA3554,Rejected Take-off,Southwest Airlines,HOU,Narrow Body,Gate_TB_54,Terminal B,,4,,,0,,,,2025-07-21 11:21:00,2025-07-21 12:48:00
+2025-07-25 00:00:00,N295WN,SWA2389,Rejected Take-off,Southwest Airlines,BNA,Narrow Body,Gate_TB_57,Terminal B,,31-4,,,0,,,,2025-07-25 15:01:00,2025-07-25 19:17:00
+2025-06-07 00:00:00,N970NK,NKS2392,Rejected Take-off,Spirit Airlines,MCO,Narrow Body,Gate_TA_5,Terminal A,,13-22,,,0,,,,2025-06-07 21:21:00,2025-06-07 21:47:00
+2025-06-07 00:00:00,N967NK,NKS2472,Rejected Take-off,Spirit Airlines,MYR,Narrow Body,Gate_TA_2,Terminal A,,22,,,0,,,,2025-06-07 12:48:00,
+2025-05-27 00:00:00,N27292,UAL352,Rejected Take-off,United Airlines,ORD,Narrow Body,Gate_TB_43_43A,Terminal B,,13,,,0,,,,2025-05-27 18:50:00,2025-05-27 22:26:00
+2025-06-07 00:00:00,N34222,UAL2199,Rejected Take-off,United Airlines,ORD,Narrow Body,Gate_TB_44,Terminal B,,22,,,0,,,,2025-06-07 13:33:00,2025-06-07 13:57:00
+2025-06-19 00:00:00,N33209,UAL1032,Rejected Take-off,United Airlines,ORD,Narrow Body,Gate_TB_43_43A,Terminal B,,13,,,0,,,,2025-06-19 15:44:00,
+2025-06-28 00:00:00,N76532,UAL1842,Rejected Take-off,United Airlines,ORD,Narrow Body,Gate_TB_45,Terminal B,,22,,,0,,,,2025-06-28 16:45:00,2025-06-28 18:14:00
+2025-07-06 00:00:00,N24224,UAL1842,Rejected Take-off,United Airlines,ORD,Narrow Body,Gate_TB_46,Terminal B,,13,,,0,,,,2025-07-06 16:45:00,2025-07-06 22:13:00
+2025-07-20 00:00:00,N14230,UAL2360,Rejected Take-off,United Airlines,ORD,Narrow Body,Gate_TB_41,Terminal B,,13,,,0,,,,2025-07-20 14:36:00,2025-07-20 19:08:00
+2025-07-25 00:00:00,N638RW,RPA3688,Rejected Take-off,United Airlines,IAD,Commuter,Gate_TB_43_43A,Terminal B,,31-31,,,0,,,,2025-07-25 15:18:00,
+2025-07-31 00:00:00,N17265,UAL1980,Rejected Take-off,United Airlines,IAH,Narrow Body,Gate_TB_46,Terminal B,,Unknown,,,0,,,,2025-07-31 13:06:00,2025-07-31 18:51:00
+2025-08-23 00:00:00,N18220,UAL2440,Rejected Take-off,United Airlines,ORD,Narrow Body,Gate_TB_43_43A,Terminal B,,22-31,,,0,,,,2025-08-23 07:44:00,2025-08-23 08:05:00
+2025-08-24 00:00:00,N77535,UAL623,Rejected Take-off,United Airlines,ORD,Narrow Body,Gate_TB_43_43A,Terminal B,,13,,,0,,,,2025-08-24 09:43:00,2025-08-24 10:56:00

@@ -1,0 +1,333 @@
+﻿Date,Registration,Call Sign,Flight Direction,Marketing Airline Desc,Non-PA Airport,Body Type Desc,Gate,Terminal Code,Total Gate Occ Time,Arrival Runway,Block Schedule,Block Actual,Total Calculated Delay,Total  Movement Time,Total Ramp Time,Total Taxi Time Calc,On Scheduled,On Actual
+2025-06-04 00:00:00,C-FEJB,JZA990,Missed Approach,Air Canada,YYZ,Commuter,Gate_TB_51,Terminal B,,22,,,0,,,,2025-06-04 14:47:00,2025-06-04 14:53:00
+2025-06-09 00:00:00,C-FXJC,JZA634,Missed Approach,Air Canada,YUL,Commuter,Gate_TB_52,Terminal B,,4,,,0,,,,2025-06-09 09:27:00,2025-06-09 09:41:00
+2025-06-17 00:00:00,C-GJXV,ACA704,Missed Approach,Air Canada,YYZ,Narrow Body,Gate_TB_51,Terminal B,,4,,,0,,,,2025-06-17 10:46:00,2025-06-17 12:32:00
+2025-06-17 00:00:00,C-FTJZ,JZA632,Missed Approach,Air Canada,YUL,Commuter,Gate_TB_52,Terminal B,,4,,,0,,,,2025-06-17 07:45:00,2025-06-17 08:11:00
+2025-07-05 00:00:00,C-FJBO,JZA996,Missed Approach,Air Canada,YYZ,Commuter,Gate_TB_51,Terminal B,,22,,,0,,,,2025-07-05 19:42:36,2025-07-05 20:41:00
+2025-07-22 00:00:00,C-GWUS,ACA702,Missed Approach,Air Canada,YYZ,Narrow Body,Gate_TB_52,Terminal B,,4,,,0,,,,2025-07-22 09:18:00,2025-07-22 09:14:00
+2025-07-29 00:00:00,C-GTZS,ACA706,Missed Approach,Air Canada,YYZ,Narrow Body,Gate_TB_51,Terminal B,,22-22,,,0,,,,2025-07-29 15:48:00,2025-07-29 15:45:00
+2025-07-30 00:00:00,C-GNBN,ACA736,Missed Approach,Air Canada,YUL,Narrow Body,Gate_TB_52,Terminal B,,22-4,,,0,,,,2025-07-30 22:37:00,2025-07-30 20:09:00
+2025-08-20 00:00:00,C-GVUH,ACA712,Missed Approach,Air Canada,YYZ,Narrow Body,Gate_TB_51,Terminal B,,4,,,0,,,,2025-08-20 14:53:00,2025-08-20 17:48:00
+2025-08-22 00:00:00,C-FGJI,ACA700,Missed Approach,Air Canada,YYZ,Narrow Body,Gate_TB_51,Terminal B,,4,,,0,,,,2025-08-22 07:43:00,2025-08-22 08:05:00
+2025-05-22 00:00:00,N732US,AAL2865,Missed Approach,American Airlines,ORD,Narrow Body,Gate_TB_14,Terminal B,,4-4,,,0,,,,2025-05-22 13:21:00,2025-05-22 13:27:00
+2025-05-22 00:00:00,N979RP,RPA4498,Missed Approach,American Airlines,GRR,Commuter,Gate_TB_26,Terminal B,,4,,,0,,,,2025-05-22 14:11:00,2025-05-22 14:50:00
+2025-05-23 00:00:00,N120HQ,RPA4347,Missed Approach,American Airlines,YYZ,Commuter,Gate_TB_12,Terminal B,,22,,,0,,,,2025-05-23 12:02:00,2025-05-23 12:01:00
+2025-05-23 00:00:00,N120HQ,RPA4747,Missed Approach,American Airlines,IND,Commuter,Gate_TB_20,Terminal B,,22-22-31-31,,,0,,,,2025-05-23 17:42:00,2025-05-23 18:22:00
+2025-05-24 00:00:00,N101HQ,RPA4660,Missed Approach,American Airlines,BNA,Commuter,Gate_TB_26,Terminal B,,22,,,0,,,,2025-05-24 15:52:00,2025-05-24 16:16:00
+2025-05-25 00:00:00,N981NN,AAL1553,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_20,Terminal B,,31,,,0,,,,2025-05-25 17:16:00,2025-05-25 17:27:00
+2025-05-29 00:00:00,N111HQ,RPA4754,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_28,Terminal B,,4,,,0,,,,2025-05-29 07:01:00,2025-05-29 07:17:00
+2025-05-31 00:00:00,N955AN,AAL2484,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_19,Terminal B,,31,,,0,,,,2025-05-31 15:58:00,2025-05-31 16:00:00
+2025-06-01 00:00:00,N651AW,AAL1942,Missed Approach,American Airlines,CLT,Narrow Body,Gate_TB_11,Terminal B,,22-22-31-31,,,0,,,,2025-06-01 22:24:00,2025-06-01 22:43:00
+2025-06-01 00:00:00,N105HQ,RPA4393,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_26,Terminal B,,22,,,0,,,,2025-06-01 13:16:00,2025-06-01 13:33:00
+2025-06-02 00:00:00,N803NN,AAL3120,Missed Approach,American Airlines,TPA,Narrow Body,Gate_TB_27,Terminal B,,22-22-22-31-31-31,,,0,,,,2025-06-02 09:59:00,2025-06-02 10:19:00
+2025-06-02 00:00:00,N133HQ,RPA4550,Missed Approach,American Airlines,YUL,Commuter,Gate_TB_26,Terminal B,,22,,,0,,,,2025-06-02 11:57:00,2025-06-02 11:52:00
+2025-06-04 00:00:00,N904AN,AAL3203,Missed Approach,American Airlines,MCO,Narrow Body,Gate_TB_28,Terminal B,,22,,,0,,,,2025-06-04 13:23:00,2025-06-04 13:05:00
+2025-06-06 00:00:00,N121HQ,RPA4394,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_15,Terminal B,,22,,,0,,,,2025-06-06 14:54:00,2025-06-06 15:23:00
+2025-06-06 00:00:00,N405YX,RPA4623,Missed Approach,American Airlines,YYZ,Commuter,Gate_TB_27,Terminal B,,22,,,0,,,,2025-06-06 14:08:00,2025-06-06 14:21:00
+2025-06-07 00:00:00,N102HQ,RPA4677,Missed Approach,American Airlines,CLE,Commuter,Gate_TB_31,Terminal B,,22-22,,,0,,,,2025-06-07 09:10:00,2025-06-07 09:35:00
+2025-06-08 00:00:00,N808AW,AAL2041,Missed Approach,American Airlines,ORD,Narrow Body,Gate_TB_16,Terminal B,,22,,,0,,,,2025-06-08 15:53:00,2025-06-08 16:37:00
+2025-06-08 00:00:00,N401YX,RPA4661,Missed Approach,American Airlines,YUL,Commuter,Gate_TB_12,Terminal B,,22,,,0,,,,2025-06-08 18:51:00,2025-06-08 18:49:00
+2025-06-08 00:00:00,N114HQ,RPA4749,Missed Approach,American Airlines,RDU,Commuter,Gate_TB_18,Terminal B,,22,,,0,,,,2025-06-08 16:55:00,2025-06-08 18:45:00
+2025-06-09 00:00:00,N957AN,AAL1166,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_14,Terminal B,,4,,,0,,,,2025-06-09 10:24:00,2025-06-09 10:32:00
+2025-06-09 00:00:00,N905AN,AAL2028,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_11,Terminal B,,4,,,0,,,,2025-06-09 19:53:00,2025-06-09 19:56:00
+2025-06-09 00:00:00,N855RW,RPA4633,Missed Approach,American Airlines,DAY,Commuter,Gate_TB_40,Terminal B,,4,,,0,,,,2025-06-09 08:35:00,2025-06-09 10:19:00
+2025-06-10 00:00:00,N121UW,AAL2068,Missed Approach,American Airlines,CLT,Narrow Body,Gate_TB_16,Terminal B,,4,,,0,,,,2025-06-10 16:12:00,2025-06-10 16:08:00
+2025-06-10 00:00:00,N977NN,AAL774,Missed Approach,American Airlines,ORD,Narrow Body,Gate_TB_28,Terminal B,,22,,,0,,,,2025-06-10 21:17:00,2025-06-10 21:23:00
+2025-06-10 00:00:00,N445YX,RPA4522,Missed Approach,American Airlines,BUF,Commuter,Gate_TB_18,Terminal B,,4,,,0,,,,2025-06-10 07:10:00,2025-06-10 07:23:00
+2025-06-12 00:00:00,N966AN,AAL774,Missed Approach,American Airlines,ORD,Narrow Body,Gate_TB_11,Terminal B,,31-4,,,0,,,,2025-06-12 21:17:00,2025-06-12 22:12:00
+2025-06-13 00:00:00,N965AN,AAL1029,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_16,Terminal B,,4,,,0,,,,2025-06-13 13:23:00,2025-06-13 14:25:00
+2025-06-13 00:00:00,N880NN,AAL2738,Missed Approach,American Airlines,MCO,Narrow Body,Gate_TB_17,Terminal B,,4,,,0,,,,2025-06-13 17:19:00,2025-06-13 17:28:00
+2025-06-16 00:00:00,N872NN,AAL1609,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_26,Terminal B,,4,,,0,,,,2025-06-16 11:54:00,2025-06-16 12:11:00
+2025-06-16 00:00:00,N136HQ,RPA4600,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_29,Terminal B,,4,,,0,,,,2025-06-16 12:26:00,2025-06-16 12:30:00
+2025-06-17 00:00:00,N346PR,AAL3096,Missed Approach,American Airlines,TPA,Narrow Body,Gate_TB_28,Terminal B,,22,,,0,,,,2025-06-17 15:08:00,2025-06-17 15:05:00
+2025-06-17 00:00:00,N406YX,RPA4522,Missed Approach,American Airlines,BUF,Commuter,Gate_TB_29,Terminal B,,4,,,0,,,,2025-06-17 07:08:00,2025-06-17 07:45:00
+2025-06-17 00:00:00,N855RW,RPA4675,Missed Approach,American Airlines,TYS,Commuter,Gate_TB_17,Terminal B,,13,,,0,,,,2025-06-17 07:13:00,2025-06-17 08:46:00
+2025-06-17 00:00:00,N855RW,RPA4675,Missed Approach,American Airlines,TYS,Commuter,Gate_TB_17,Terminal B,,4,,,0,,,,2025-06-17 07:13:00,2025-06-17 08:46:00
+2025-06-17 00:00:00,N119HQ,RPA4677,Missed Approach,American Airlines,CLE,Commuter,Gate_TB_15,Terminal B,,4,,,0,,,,2025-06-17 07:50:00,2025-06-17 08:18:00
+2025-06-17 00:00:00,N117HQ,RPA4791,Missed Approach,American Airlines,CMH,Commuter,Gate_TB_20,Terminal B,,22,,,0,,,,2025-06-17 21:01:00,2025-06-17 21:07:00
+2025-06-19 00:00:00,N401YX,RPA4623,Missed Approach,American Airlines,YYZ,Commuter,Gate_TB_29,Terminal B,,22-4,,,0,,,,2025-06-19 15:27:00,2025-06-19 17:12:00
+2025-06-20 00:00:00,N950NN,AAL2043,Missed Approach,American Airlines,CLT,Narrow Body,Gate_TB_22,Terminal B,,22-22-31-31,,,0,,,,2025-06-20 08:58:00,2025-06-20 09:03:00
+2025-06-20 00:00:00,N329SL,AAL2213,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_26,Terminal B,,22,,,0,,,,2025-06-20 22:53:00,2025-06-20 23:38:00
+2025-06-21 00:00:00,N416YX,RPA4411,Missed Approach,American Airlines,BNA,Commuter,Gate_TB_15,Terminal B,,22,,,0,,,,2025-06-21 11:22:00,2025-06-21 12:35:00
+2025-06-22 00:00:00,N861RW,RPA4761,Missed Approach,American Airlines,TYS,Commuter,Gate_TB_31,Terminal B,,22,,,0,,,,2025-06-22 23:16:00,2025-06-22 23:24:00
+2025-06-23 00:00:00,N136HQ,RPA4600,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_43_43A,Terminal B,,22-4,,,0,,,,2025-06-23 12:34:00,2025-06-23 12:59:00
+2025-06-23 00:00:00,N104HQ,RPA4795,Missed Approach,American Airlines,DSM,Commuter,Gate_TB_30,Terminal B,,22,,,0,,,,2025-06-23 14:33:00,2025-06-23 14:41:00
+2025-06-24 00:00:00,N342PM,AAL1166,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_11,Terminal B,,31,,,0,,,,2025-06-24 10:24:00,2025-06-24 10:37:00
+2025-06-24 00:00:00,N129HQ,RPA4719,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_31,Terminal B,,22,,,0,,,,2025-06-24 19:03:00,2025-06-24 20:18:00
+2025-06-24 00:00:00,N423YX,RPA4791,Missed Approach,American Airlines,CMH,Commuter,Gate_TB_22,Terminal B,,22,,,0,,,,2025-06-24 20:06:00,2025-06-24 20:33:00
+2025-06-25 00:00:00,N893NN,AAL3022,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_22,Terminal B,,31,,,0,,,,2025-06-25 14:56:00,2025-06-25 15:54:00
+2025-06-25 00:00:00,N316SE,AAL565,Missed Approach,American Airlines,ORD,Narrow Body,Gate_TB_11,Terminal B,,31,,,0,,,,2025-06-25 14:27:00,2025-06-25 14:37:00
+2025-06-26 00:00:00,N427YX,RPA4600,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_15,Terminal B,,4,,,0,,,,2025-06-26 12:34:00,2025-06-26 12:46:00
+2025-06-28 00:00:00,N116HQ,RPA4525,Missed Approach,American Airlines,TVC,Commuter,Gate_TB_30,Terminal B,,22-22-4-4,,,0,,,,2025-06-28 12:29:00,2025-06-28 12:39:00
+2025-06-28 00:00:00,N445YX,RPA4599,Missed Approach,American Airlines,ACK,Commuter,Gate_TB_18,Terminal B,,22,,,0,,,,2025-06-28 14:46:00,2025-06-28 15:21:00
+2025-06-30 00:00:00,N654RW,RPA4719,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_31,Terminal B,,22,,,0,,,,2025-06-30 19:31:00,2025-06-30 22:18:00
+2025-07-01 00:00:00,N419YX,RPA4556,Missed Approach,American Airlines,YYZ,Commuter,Gate_TB_14,Terminal B,,22,,,0,,,,2025-07-01 16:55:00,2025-07-01 16:58:00
+2025-07-02 00:00:00,N403YX,RPA4500,Missed Approach,American Airlines,YHZ,Commuter,Gate_TB_24,Terminal B,,22-22,,,0,,,,2025-07-02 18:40:00,2025-07-02 19:19:00
+2025-07-03 00:00:00,N425YX,RPA4634,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_18,Terminal B,,31,,,0,,,,2025-07-03 10:13:00,2025-07-03 10:43:00
+2025-07-04 00:00:00,N342PM,AAL1609,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_19,Terminal B,,31,,,0,,,,2025-07-04 11:26:00,2025-07-04 11:20:00
+2025-07-05 00:00:00,N411YX,RPA4550,Missed Approach,American Airlines,YUL,Commuter,Gate_TB_31,Terminal B,,4,,,0,,,,2025-07-05 11:39:00,2025-07-05 11:58:00
+2025-07-06 00:00:00,N105HQ,RPA4564,Missed Approach,American Airlines,MEM,Commuter,Gate_TB_31,Terminal B,,22,,,0,,,,2025-07-06 10:50:00,2025-07-06 10:57:00
+2025-07-06 00:00:00,N124HQ,RPA4736,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_24,Terminal B,,22,,,0,,,,2025-07-06 15:53:00,2025-07-06 15:56:00
+2025-07-07 00:00:00,N123HQ,RPA4769,Missed Approach,American Airlines,BOS,Commuter,Gate_TB_30,Terminal B,,22,,,0,,,,2025-07-07 15:18:00,2025-07-07 15:40:00
+2025-07-08 00:00:00,N352PS,AAL3205,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_26,Terminal B,,31,,,0,,,,2025-07-08 09:53:00,2025-07-08 09:57:00
+2025-07-08 00:00:00,N110HQ,RPA4407,Missed Approach,American Airlines,CLE,Commuter,Gate_TB_29,Terminal B,,22-4,,,0,,,,2025-07-08 17:10:00,2025-07-08 19:38:00
+2025-07-09 00:00:00,N877NN,AAL1150,Missed Approach,American Airlines,CLT,Narrow Body,Gate_TB_24,Terminal B,,31,,,0,,,,2025-07-09 10:54:00,2025-07-09 10:53:00
+2025-07-09 00:00:00,N903AN,AAL1609,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_15,Terminal B,,31,,,0,,,,2025-07-09 11:54:00,2025-07-09 11:57:00
+2025-07-09 00:00:00,N971AN,AAL3022,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_24,Terminal B,,22,,,0,,,,2025-07-09 14:59:00,2025-07-09 15:19:00
+2025-07-11 00:00:00,N110HQ,RPA4500,Missed Approach,American Airlines,YHZ,Commuter,Gate_TB_14,Terminal B,,22,,,0,,,,2025-07-11 16:19:00,2025-07-11 16:35:00
+2025-07-12 00:00:00,N300UB,AAL553,Missed Approach,American Airlines,YYC,Narrow Body,Gate_TB_22,Terminal B,,13,,,0,,,,2025-07-12 20:37:00,2025-07-12 21:18:00
+2025-07-13 00:00:00,N410YX,RPA4676,Missed Approach,American Airlines,BNA,Commuter,Gate_TB_24,Terminal B,,4,,,0,,,,2025-07-13 13:21:00,2025-07-13 13:31:00
+2025-07-15 00:00:00,N317PG,AAL3103,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_19,Terminal B,,22,,,0,,,,2025-07-15 16:04:00,2025-07-15 16:32:00
+2025-07-16 00:00:00,N102HQ,RPA4797,Missed Approach,American Airlines,IND,Commuter,Gate_TB_18,Terminal B,,22,,,0,,,,2025-07-16 07:52:00,2025-07-16 07:59:00
+2025-07-21 00:00:00,N940NN,AAL3205,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_17,Terminal B,,31,,,0,,,,2025-07-21 09:53:00,2025-07-21 09:55:00
+2025-07-21 00:00:00,N424YX,RPA4669,Missed Approach,American Airlines,STL,Commuter,Gate_TB_41,Terminal B,,31,,,0,,,,2025-07-21 09:18:00,2025-07-21 10:18:00
+2025-07-22 00:00:00,N125HQ,RPA4475,Missed Approach,American Airlines,CLE,Commuter,Gate_TB_18,Terminal B,,22-4,,,0,,,,2025-07-22 15:49:00,2025-07-22 15:57:00
+2025-07-22 00:00:00,N114HQ,RPA4500,Missed Approach,American Airlines,YHZ,Commuter,Gate_TB_15,Terminal B,,22,,,0,,,,2025-07-22 16:09:00,2025-07-22 16:17:00
+2025-07-22 00:00:00,N435YX,RPA4553,Missed Approach,American Airlines,CHO,Commuter,Gate_TB_11,Terminal B,,22,,,0,,,,2025-07-22 16:19:00,2025-07-22 16:19:00
+2025-07-28 00:00:00,N943NN,AAL1609,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_26,Terminal B,,31,,,0,,,,2025-07-28 11:54:00,2025-07-28 11:57:00
+2025-07-28 00:00:00,N108HQ,RPA4342,Missed Approach,American Airlines,XNA,Commuter,Gate_TB_19,Terminal B,,22-22-31-31,,,0,,,,2025-07-28 20:51:00,2025-07-28 21:06:00
+2025-07-28 00:00:00,N425YX,RPA4738,Missed Approach,American Airlines,BUF,Commuter,Gate_TB_28,Terminal B,,31-31-4-4,,,0,,,,2025-07-28 12:31:00,2025-07-28 12:45:00
+2025-07-30 00:00:00,N805NN,AAL1553,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_12,Terminal B,,22-4,,,0,,,,2025-07-30 17:45:00,2025-07-30 19:32:00
+2025-07-30 00:00:00,N995NN,AAL2388,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_24,Terminal B,,22,,,0,,,,2025-07-30 18:07:00,2025-07-30 18:56:00
+2025-07-30 00:00:00,N111HQ,RPA4488,Missed Approach,American Airlines,BGR,Commuter,Gate_TB_27,Terminal B,,22-4,,,0,,,,2025-07-30 19:10:00,2025-07-30 19:35:00
+2025-07-31 00:00:00,N317PG,AAL3222,Missed Approach,American Airlines,MSY,Narrow Body,*T8_36,LGA-Unknown,,4,,,0,,,,2025-07-31 22:42:00,2025-07-31 23:38:00
+2025-07-31 00:00:00,N827AW,AAL2041,Missed Approach,American Airlines,ORD,Narrow Body,Gate_TB_16,Terminal B,,4,,,0,,,,2025-07-31 18:00:00,2025-07-31 19:00:00
+2025-08-02 00:00:00,N937AN,AAL973,Missed Approach,American Airlines,ORD,Narrow Body,Gate_TB_20,Terminal B,,13-31,,,0,,,,2025-08-02 23:38:00,2025-08-02 23:30:00
+2025-08-02 00:00:00,N405YX,RPA4634,Missed Approach,American Airlines,DCA,Commuter,Gate_TB_18,Terminal B,,31-31,,,0,,,,2025-08-02 12:43:00,2025-08-02 12:56:00
+2025-08-05 00:00:00,N336SR,AAL605,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_28,Terminal B,,4,,,0,,,,2025-08-05 11:54:00,2025-08-05 11:45:00
+2025-08-08 00:00:00,N878NN,AAL3205,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_17,Terminal B,,4,,,0,,,,2025-08-08 09:53:00,2025-08-08 10:23:00
+2025-08-10 00:00:00,N413YX,RPA4656,Missed Approach,American Airlines,LIT,Commuter,Gate_TB_27,Terminal B,,22,,,0,,,,2025-08-10 12:06:00,2025-08-10 12:11:00
+2025-08-12 00:00:00,N106HQ,RPA4621,Missed Approach,American Airlines,ORF,Commuter,Gate_TB_41,Terminal B,,22,,,0,,,,2025-08-12 14:13:00,2025-08-12 14:49:00
+2025-08-14 00:00:00,N434YX,RPA4477,Missed Approach,American Airlines,DTW,Commuter,Gate_TB_26,Terminal B,,22,,,0,,,,2025-08-14 07:52:00,2025-08-14 07:56:00
+2025-08-14 00:00:00,N855RW,RPA4673,Missed Approach,American Airlines,RIC,Commuter,Gate_TB_30,Terminal B,,22,,,0,,,,2025-08-14 21:43:00,2025-08-14 22:15:00
+2025-08-15 00:00:00,N329SL,AAL672,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_11,Terminal B,,22,,,0,,,,2025-08-15 17:47:00,2025-08-15 18:24:00
+2025-08-15 00:00:00,N434YX,RPA4506,Missed Approach,American Airlines,CAE,Commuter,Gate_TB_15,Terminal B,,22,,,0,,,,2025-08-15 17:47:00,2025-08-15 17:58:00
+2025-08-16 00:00:00,N334TL,AAL553,Missed Approach,American Airlines,YYC,Narrow Body,Gate_TB_27,Terminal B,,13,,,0,,,,2025-08-16 20:52:00,2025-08-16 21:26:00
+2025-08-16 00:00:00,N411YX,RPA4506,Missed Approach,American Airlines,CAE,Commuter,Gate_TB_19,Terminal B,,13,,,0,,,,2025-08-16 15:15:00,2025-08-16 15:35:00
+2025-08-18 00:00:00,N322TH,AAL836,Missed Approach,American Airlines,CLT,Narrow Body,Gate_TB_19,Terminal B,,4,,,0,,,,2025-08-18 15:27:00,2025-08-18 15:31:00
+2025-08-19 00:00:00,N979RP,RPA4494,Missed Approach,American Airlines,DTW,Commuter,Gate_TB_20,Terminal B,,22-4,,,0,,,,2025-08-19 12:58:00,2025-08-19 13:22:00
+2025-08-20 00:00:00,N960AN,AAL2327,Missed Approach,American Airlines,DFW,Narrow Body,Gate_TB_14,Terminal B,,4,,,0,,,,2025-08-20 15:52:00,2025-08-20 16:17:00
+2025-08-26 00:00:00,N917NN,AAL2723,Missed Approach,American Airlines,ORD,Narrow Body,Gate_TB_12,Terminal B,,31,,,0,,,,2025-08-26 09:59:00,2025-08-26 09:45:00
+2025-08-30 00:00:00,N966AN,AAL2271,Missed Approach,American Airlines,MIA,Narrow Body,Gate_TB_28,Terminal B,,31,,,0,,,,2025-08-30 20:53:00,2025-08-30 21:53:00
+2025-05-22 00:00:00,N3738B,DAL398,Missed Approach,Delta Air Lines,DEN,Narrow Body,Gate_68,Terminal C,,4,,,0,,,,2025-05-22 12:15:00,2025-05-22 12:29:00
+2025-05-22 00:00:00,N880RW,RPA5844,Missed Approach,Delta Air Lines,CMH,Commuter,Gate_92,Terminal C,,4-4,,,0,,,,2025-05-22 13:12:00,2025-05-22 13:49:00
+2025-05-23 00:00:00,N272PQ,EDV5431,Missed Approach,Delta Air Lines,TYS,Commuter,Gate_67,Terminal C,,22-31,,,0,,,,2025-05-23 20:22:00,2025-05-23 20:12:00
+2025-05-24 00:00:00,N919XJ,EDV4918,Missed Approach,Delta Air Lines,TYS,Commuter,Gate_71,Terminal C,,22,,,0,,,,2025-05-24 13:04:00,2025-05-24 13:10:00
+2025-05-24 00:00:00,N910XJ,EDV5139,Missed Approach,Delta Air Lines,YUL,Commuter,Gate_81,Terminal C,,22,,,0,,,,2025-05-24 07:17:00,2025-05-24 07:12:00
+2025-05-26 00:00:00,N850DN,DAL2396,Missed Approach,Delta Air Lines,PBI,Narrow Body,Gate_72,Terminal C,,22,,,0,,,,2025-05-26 17:36:00,2025-05-26 17:42:00
+2025-05-26 00:00:00,N922XJ,EDV5127,Missed Approach,Delta Air Lines,CVG,Commuter,Gate_64,Terminal C,,22,,,0,,,,2025-05-26 15:23:00,2025-05-26 15:26:00
+2025-05-29 00:00:00,N341DN,DAL404,Missed Approach,Delta Air Lines,ATL,Narrow Body,Gate_86,Terminal C,,4,,,0,,,,2025-05-29 07:46:00,2025-05-29 08:09:00
+2025-05-29 00:00:00,N140DU,DAL461,Missed Approach,Delta Air Lines,DFW,Narrow Body,Gate_61,Terminal C,,4,,,0,,,,2025-05-29 10:20:00,2025-05-29 10:08:00
+2025-05-30 00:00:00,N917XJ,EDV5360,Missed Approach,Delta Air Lines,RIC,Commuter,Gate_67,Terminal C,,22,,,0,,,,2025-05-30 19:30:00,2025-05-30 20:08:00
+2025-05-31 00:00:00,N378DN,DAL2239,Missed Approach,Delta Air Lines,MCO,Narrow Body,Gate_83,Terminal C,,31,,,0,,,,2025-05-31 16:14:00,2025-05-31 16:45:00
+2025-05-31 00:00:00,N380DN,DAL2764,Missed Approach,Delta Air Lines,MSP,Narrow Body,Gate_74,Terminal C,,31,,,0,,,,2025-05-31 12:24:00,2025-05-31 12:51:00
+2025-05-31 00:00:00,N3745B,DAL379,Missed Approach,Delta Air Lines,RSW,Narrow Body,Gate_67,Terminal C,,31,,,0,,,,2025-05-31 13:39:00,2025-05-31 14:12:00
+2025-05-31 00:00:00,N482PX,EDV4977,Missed Approach,Delta Air Lines,BHM,Commuter,Gate_65,Terminal C,,22,,,0,,,,2025-05-31 10:43:00,2025-05-31 10:41:00
+2025-06-01 00:00:00,N479PX,EDV5372,Missed Approach,Delta Air Lines,JAX,Commuter,Gate_70,Terminal C,,22,,,0,,,,2025-06-01 20:53:00,2025-06-01 21:18:00
+2025-06-01 00:00:00,N878RW,RPA5844,Missed Approach,Delta Air Lines,CMH,Commuter,Gate_97,Terminal C,,22,,,0,,,,2025-06-01 13:15:00,2025-06-01 13:38:00
+2025-06-02 00:00:00,N607LR,EDV4964,Missed Approach,Delta Air Lines,ORF,Commuter,Gate_76,Terminal C,,22,,,0,,,,2025-06-02 18:52:00,2025-06-02 19:26:00
+2025-06-02 00:00:00,N914XJ,EDV5424,Missed Approach,Delta Air Lines,ORH,Commuter,Gate_77,Terminal C,,22,,,0,,,,2025-06-02 17:20:00,2025-06-02 16:59:00
+2025-06-02 00:00:00,N206JQ,RPA5778,Missed Approach,Delta Air Lines,RDU,Commuter,Gate_97,Terminal C,,22,,,0,,,,2025-06-02 16:22:00,2025-06-02 16:55:00
+2025-06-03 00:00:00,N108DQ,DAL856,Missed Approach,Delta Air Lines,DFW,Narrow Body,Gate_87,Terminal C,,22,,,0,,,,2025-06-03 19:57:00,2025-06-03 20:08:00
+2025-06-03 00:00:00,N166PQ,EDV5362,Missed Approach,Delta Air Lines,BUF,Commuter,Gate_79,Terminal C,,22,,,0,,,,2025-06-03 15:59:00,2025-06-03 16:17:00
+2025-06-05 00:00:00,N880RW,RPA5741,Missed Approach,Delta Air Lines,CLE,Commuter,Gate_94,Terminal C,,22,,,0,,,,2025-06-05 07:25:00,2025-06-05 07:39:00
+2025-06-05 00:00:00,N244JQ,RPA5773,Missed Approach,Delta Air Lines,DCA,Commuter,Gate_96,Terminal C,,22,,,0,,,,2025-06-05 06:58:00,2025-06-05 06:54:00
+2025-06-06 00:00:00,N478PX,EDV5164,Missed Approach,Delta Air Lines,RDU,Commuter,Gate_74,Terminal C,,22,,,0,,,,2025-06-06 07:26:00,2025-06-06 07:43:00
+2025-06-06 00:00:00,N205JQ,RPA5753,Missed Approach,Delta Air Lines,PIT,Commuter,Gate_94,Terminal C,,22,,,0,,,,2025-06-06 07:10:00,2025-06-06 07:14:00
+2025-06-08 00:00:00,N108DQ,DAL1164,Missed Approach,Delta Air Lines,DFW,Narrow Body,Gate_83,Terminal C,,22,,,0,,,,2025-06-08 18:00:00,2025-06-08 18:02:00
+2025-06-09 00:00:00,N490PX,EDV4929,Missed Approach,Delta Air Lines,MKE,Commuter,Gate_66,Terminal C,,4-4,,,0,,,,2025-06-09 16:19:00,2025-06-09 16:18:00
+2025-06-09 00:00:00,N228PQ,EDV5047,Missed Approach,Delta Air Lines,CLT,Commuter,*TC_71,Terminal C,,4,,,0,,,,2025-06-09 22:20:00,2025-06-09 23:41:00
+2025-06-09 00:00:00,N182GJ,EDV5050,Missed Approach,Delta Air Lines,LEX,Commuter,Gate_67,Terminal C,,4,,,0,,,,2025-06-09 09:23:00,2025-06-09 09:36:00
+2025-06-10 00:00:00,N917XJ,EDV4994,Missed Approach,Delta Air Lines,GSP,Commuter,Gate_66,Terminal C,,4,,,0,,,,2025-06-10 14:46:00,2025-06-10 14:45:00
+2025-06-10 00:00:00,N221JQ,RPA5590,Missed Approach,Delta Air Lines,DCA,Commuter,Gate_92,Terminal C,,4-4,,,0,,,,2025-06-10 12:37:00,2025-06-10 13:28:00
+2025-06-11 00:00:00,N893DN,DAL2347,Missed Approach,Delta Air Lines,MIA,Narrow Body,Gate_85,Terminal C,,22,,,0,,,,2025-06-11 14:08:00,2025-06-11 14:20:00
+2025-06-12 00:00:00,N482PX,EDV4936,Missed Approach,Delta Air Lines,BHM,Commuter,Gate_62,Terminal C,,22,,,0,,,,2025-06-12 14:06:00,2025-06-12 14:47:00
+2025-06-14 00:00:00,N388DN,DAL1523,Missed Approach,Delta Air Lines,MCO,Narrow Body,Gate_74,Terminal C,,4,,,0,,,,2025-06-14 09:31:00,2025-06-14 10:45:00
+2025-06-15 00:00:00,N922DZ,DAL2347,Missed Approach,Delta Air Lines,MIA,Narrow Body,Gate_85,Terminal C,,4,,,0,,,,2025-06-15 14:04:00,2025-06-15 14:04:00
+2025-06-15 00:00:00,N129DU,DAL580,Missed Approach,Delta Air Lines,DFW,Narrow Body,Gate_75,Terminal C,,22-4,,,0,,,,2025-06-15 21:08:00,2025-06-15 21:23:00
+2025-06-15 00:00:00,N119DN,DAL997,Missed Approach,Delta Air Lines,ATL,Narrow Body,Gate_84,Terminal C,,4,,,0,,,,2025-06-15 20:15:00,2025-06-15 21:00:00
+2025-06-16 00:00:00,N485PX,EDV5278,Missed Approach,Delta Air Lines,JAX,Commuter,Gate_66,Terminal C,,22-22-31-31,,,0,,,,2025-06-15 21:13:00,2025-06-16 01:14:00
+2025-06-17 00:00:00,N313PQ,EDV5091,Missed Approach,Delta Air Lines,CVG,Commuter,Gate_79,Terminal C,,4,,,0,,,,2025-06-17 07:49:00,2025-06-17 08:25:00
+2025-06-17 00:00:00,N206JQ,RPA5603,Missed Approach,Delta Air Lines,SAV,Commuter,Gate_68,Terminal C,,4,,,0,,,,2025-06-17 07:54:00,2025-06-17 08:15:00
+2025-06-17 00:00:00,N815MD,RPA5634,Missed Approach,Delta Air Lines,RIC,Commuter,Gate_85,Terminal C,,4,,,0,,,,2025-06-17 07:05:00,2025-06-17 08:23:00
+2025-06-18 00:00:00,N915XJ,EDV5139,Missed Approach,Delta Air Lines,YUL,Commuter,Gate_72,Terminal C,,22,,,0,,,,2025-06-18 07:13:00,2025-06-18 07:21:00
+2025-06-18 00:00:00,N131EV,EDV5267,Missed Approach,Delta Air Lines,SAV,Commuter,Gate_70,Terminal C,,22,,,0,,,,2025-06-18 14:19:00,2025-06-18 14:45:00
+2025-06-18 00:00:00,N292PQ,EDV5311,Missed Approach,Delta Air Lines,ROC,Commuter,Gate_62,Terminal C,,22,,,0,,,,2025-06-18 06:59:00,2025-06-18 07:00:00
+2025-06-18 00:00:00,N228JQ,RPA5723,Missed Approach,Delta Air Lines,CLT,Commuter,Gate_96,Terminal C,,22,,,0,,,,2025-06-18 16:53:00,2025-06-18 17:19:00
+2025-06-18 00:00:00,N230JQ,RPA5764,Missed Approach,Delta Air Lines,BUF,Commuter,Gate_98,Terminal C,,22,,,0,,,,2025-06-18 07:17:00,2025-06-18 07:10:00
+2025-06-19 00:00:00,N141DU,DAL2917,Missed Approach,Delta Air Lines,ORD,Narrow Body,*TD_D8,Terminal C,,22,,,0,,,,2025-06-19 13:29:00,2025-06-19 14:30:00
+2025-06-19 00:00:00,N112DU,DAL580,Missed Approach,Delta Air Lines,DFW,Narrow Body,Gate_73,Terminal C,,22,,,0,,,,2025-06-19 21:31:00,2025-06-19 22:56:00
+2025-06-19 00:00:00,N203JQ,RPA5607,Missed Approach,Delta Air Lines,DCA,Commuter,Gate_98,Terminal C,,22,,,0,,,,2025-06-19 09:49:00,2025-06-19 09:59:00
+2025-06-19 00:00:00,N220JQ,RPA5829,Missed Approach,Delta Air Lines,IND,Commuter,Gate_88B,Terminal C,,22,,,0,,,,2025-06-19 13:53:00,2025-06-19 14:08:00
+2025-06-20 00:00:00,N391DN,DAL524,Missed Approach,Delta Air Lines,ATL,Narrow Body,*TC_87,Terminal C,,22,,,0,,,,2025-06-20 16:48:00,2025-06-20 18:17:00
+2025-06-20 00:00:00,N310PQ,EDV5324,Missed Approach,Delta Air Lines,YHZ,Commuter,Gate_64,Terminal C,,22,,,0,,,,2025-06-20 14:28:00,2025-06-20 14:39:00
+2025-06-23 00:00:00,N343DN,DAL2602,Missed Approach,Delta Air Lines,DTW,Narrow Body,Gate_78,Terminal C,,22,,,0,,,,2025-06-23 15:47:00,2025-06-23 15:48:00
+2025-06-23 00:00:00,N317DU,DAL603,Missed Approach,Delta Air Lines,IAH,Narrow Body,Gate_89A,Terminal C,,22,,,0,,,,2025-06-23 23:18:00,2025-06-23 23:40:00
+2025-06-23 00:00:00,N131EV,EDV4970,Missed Approach,Delta Air Lines,STL,Commuter,Gate_63,Terminal C,,22,,,0,,,,2025-06-23 18:49:00,2025-06-23 19:07:00
+2025-06-24 00:00:00,N313DU,DAL1697,Missed Approach,Delta Air Lines,IAH,Narrow Body,Gate_83,Terminal C,,22,,,0,,,,2025-06-24 19:08:00,2025-06-24 19:42:00
+2025-06-24 00:00:00,N232PQ,EDV5270,Missed Approach,Delta Air Lines,PWM,Commuter,Gate_74,Terminal C,,31,,,0,,,,2025-06-24 07:25:00,2025-06-24 07:19:00
+2025-06-25 00:00:00,N3767,DAL379,Missed Approach,Delta Air Lines,RSW,Narrow Body,Gate_69,Terminal C,,31,,,0,,,,2025-06-25 14:17:00,2025-06-25 14:20:00
+2025-06-25 00:00:00,N298PQ,EDV4970,Missed Approach,Delta Air Lines,STL,Commuter,Gate_66,Terminal C,,31-31-4-4,,,0,,,,2025-06-25 18:48:00,2025-06-25 19:15:00
+2025-06-29 00:00:00,N815MD,RPA5621,Missed Approach,Delta Air Lines,HHH,Commuter,Gate_89A,Terminal C,,22-22,,,0,,,,2025-06-29 19:27:00,2025-06-29 20:00:00
+2025-06-30 00:00:00,N913XJ,EDV5311,Missed Approach,Delta Air Lines,ROC,Commuter,Gate_80,Terminal C,,4,,,0,,,,2025-06-30 07:00:00,2025-06-30 14:15:00
+2025-07-02 00:00:00,N341DN,DAL2239,Missed Approach,Delta Air Lines,MCO,Narrow Body,Gate_86,Terminal C,,22,,,0,,,,2025-07-02 16:52:00,2025-07-02 19:09:00
+2025-07-02 00:00:00,N114DN,DAL525,Missed Approach,Delta Air Lines,ATL,Narrow Body,Gate_85,Terminal C,,22,,,0,,,,2025-07-02 14:45:00,2025-07-02 15:21:00
+2025-07-03 00:00:00,N333DU,DAL2411,Missed Approach,Delta Air Lines,MSY,Narrow Body,Gate_86,Terminal C,,22,,,0,,,,2025-07-03 14:11:00,2025-07-03 14:32:00
+2025-07-03 00:00:00,N915XJ,EDV5131,Missed Approach,Delta Air Lines,CAE,Commuter,Gate_64,Terminal C,,22-22,,,0,,,,2025-07-03 07:35:00,2025-07-03 07:52:00
+2025-07-03 00:00:00,N912XJ,EDV5339,Missed Approach,Delta Air Lines,BGR,Commuter,Gate_70,Terminal C,,22,,,0,,,,2025-07-03 16:07:00,2025-07-03 16:07:00
+2025-07-03 00:00:00,N815MD,RPA5822,Missed Approach,Delta Air Lines,MVY,Commuter,Gate_97,Terminal C,,22,,,0,,,,2025-07-03 16:29:00,2025-07-03 16:26:00
+2025-07-04 00:00:00,N396DA,DAL398,Missed Approach,Delta Air Lines,DEN,Narrow Body,Gate_79,Terminal C,,31,,,0,,,,2025-07-04 13:58:00,2025-07-04 14:22:00
+2025-07-05 00:00:00,N369DN,DAL371,Missed Approach,Delta Air Lines,ATL,Narrow Body,*TC_87,Terminal C,,4,,,0,,,,2025-07-05 12:31:00,2025-07-05 12:34:00
+2025-07-05 00:00:00,N538CA,EDV5025,Missed Approach,Delta Air Lines,AVL,Commuter,Gate_70,Terminal C,,22-22,,,0,,,,2025-07-05 14:54:00,2025-07-05 15:52:00
+2025-07-05 00:00:00,N242JQ,RPA5662,Missed Approach,Delta Air Lines,MVY,Commuter,Gate_94,Terminal C,,4,,,0,,,,2025-07-05 13:02:00,2025-07-05 12:54:00
+2025-07-07 00:00:00,N346DN,DAL2732,Missed Approach,Delta Air Lines,MSP,Narrow Body,Gate_85,Terminal C,,22,,,0,,,,2025-07-07 19:24:00,2025-07-07 19:34:00
+2025-07-08 00:00:00,N933XJ,EDV5171,Missed Approach,Delta Air Lines,GSP,Commuter,Gate_66,Terminal C,,31,,,0,,,,2025-07-08 08:13:00,2025-07-08 08:19:00
+2025-07-08 00:00:00,N480PX,EDV5449,Missed Approach,Delta Air Lines,YUL,Commuter,*TC_71,Terminal C,,22-22,,,0,,,,2025-07-08 20:07:00,2025-07-08 21:13:00
+2025-07-09 00:00:00,N181PQ,EDV4628,Missed Approach,Delta Air Lines,BUF,Commuter,Gate_72,Terminal C,,31,,,0,,,,2025-07-09 11:40:00,2025-07-09 11:36:00
+2025-07-09 00:00:00,N934XJ,EDV4833,Missed Approach,Delta Air Lines,CVG,Commuter,Gate_74,Terminal C,,31,,,0,,,,2025-07-09 13:12:00,2025-07-09 13:15:00
+2025-07-09 00:00:00,N232JQ,RPA5603,Missed Approach,Delta Air Lines,SAV,Commuter,Gate_88A,Terminal C,,22,,,0,,,,2025-07-09 07:52:00,2025-07-09 08:16:00
+2025-07-09 00:00:00,N229JQ,RPA5702,Missed Approach,Delta Air Lines,MKE,Commuter,Gate_98,Terminal C,,22,,,0,,,,2025-07-09 20:16:00,2025-07-09 20:10:00
+2025-07-13 00:00:00,N368DN,DAL2719,Missed Approach,Delta Air Lines,MSP,Narrow Body,Gate_74,Terminal C,,13,,,0,,,,2025-07-13 10:28:00,2025-07-13 10:57:00
+2025-07-13 00:00:00,N186GJ,EDV4970,Missed Approach,Delta Air Lines,STL,Commuter,Gate_95,Terminal C,,22,,,0,,,,2025-07-13 21:04:00,2025-07-13 20:58:00
+2025-07-15 00:00:00,N235JQ,RPA5856,Missed Approach,Delta Air Lines,ACK,Commuter,Gate_94,Terminal C,,22-4,,,0,,,,2025-07-15 13:16:00,2025-07-15 13:58:00
+2025-07-17 00:00:00,N313DU,DAL1697,Missed Approach,Delta Air Lines,IAH,Narrow Body,Gate_95,Terminal C,,22,,,0,,,,2025-07-17 19:24:00,2025-07-17 19:38:00
+2025-07-17 00:00:00,N909XJ,EDV4719,Missed Approach,Delta Air Lines,BHM,Commuter,*TC_71,Terminal C,,22,,,0,,,,2025-07-17 21:23:00,2025-07-17 21:28:00
+2025-07-17 00:00:00,N336PQ,EDV5047,Missed Approach,Delta Air Lines,CLT,Commuter,Gate_67,Terminal C,,22,,,0,,,,2025-07-17 22:08:00,2025-07-17 22:38:00
+2025-07-17 00:00:00,N676CA,EDV5437,Missed Approach,Delta Air Lines,CHS,Commuter,Gate_77,Terminal C,,22,,,0,,,,2025-07-17 11:24:00,2025-07-17 11:56:00
+2025-07-18 00:00:00,N925XJ,EDV5127,Missed Approach,Delta Air Lines,CVG,Commuter,Gate_84,Terminal C,,31,,,0,,,,2025-07-18 15:02:00,2025-07-18 15:35:00
+2025-07-18 00:00:00,N920XJ,EDV5131,Missed Approach,Delta Air Lines,CAE,Commuter,Gate_74,Terminal C,,31,,,0,,,,2025-07-18 07:45:00,2025-07-18 07:47:00
+2025-07-20 00:00:00,N920XJ,EDV4929,Missed Approach,Delta Air Lines,MKE,Commuter,Gate_74,Terminal C,,22,,,0,,,,2025-07-20 15:54:00,2025-07-20 16:06:00
+2025-07-20 00:00:00,N131EV,EDV4970,Missed Approach,Delta Air Lines,STL,Commuter,Gate_62,Terminal C,,22,,,0,,,,2025-07-20 18:36:00,2025-07-20 19:56:00
+2025-07-20 00:00:00,N860RW,RPA5752,Missed Approach,Delta Air Lines,DCA,Commuter,Gate_97,Terminal C,,22,,,0,,,,2025-07-20 21:50:00,2025-07-20 21:46:00
+2025-07-21 00:00:00,N383DZ,DAL557,Missed Approach,Delta Air Lines,ATL,Narrow Body,Gate_72,Terminal C,,31,,,0,,,,2025-07-21 11:24:00,2025-07-21 11:39:00
+2025-07-21 00:00:00,N153PQ,EDV5254,Missed Approach,Delta Air Lines,BGR,Commuter,Gate_75,Terminal C,,31,,,0,,,,2025-07-21 13:52:00,2025-07-21 13:41:00
+2025-07-23 00:00:00,N482PX,EDV5359,Missed Approach,Delta Air Lines,IND,Commuter,Gate_65,Terminal C,,22,,,0,,,,2025-07-23 16:23:00,2025-07-23 16:42:00
+2025-07-24 00:00:00,N916XJ,EDV5271,Missed Approach,Delta Air Lines,BNA,Commuter,Gate_66,Terminal C,,22,,,0,,,,2025-07-24 12:23:00,2025-07-24 12:22:00
+2025-07-25 00:00:00,N335PQ,EDV4981,Missed Approach,Delta Air Lines,STL,Commuter,Gate_74,Terminal C,,22,,,0,,,,2025-07-25 09:08:00,2025-07-25 09:58:00
+2025-07-25 00:00:00,N485PX,EDV5235,Missed Approach,Delta Air Lines,RDU,Commuter,Gate_66,Terminal C,,22,,,0,,,,2025-07-25 09:30:00,2025-07-25 09:42:00
+2025-07-25 00:00:00,N921XJ,EDV5357,Missed Approach,Delta Air Lines,BTV,Commuter,Gate_61,Terminal C,,22,,,0,,,,2025-07-25 15:36:00,2025-07-25 16:42:00
+2025-07-25 00:00:00,N928XJ,EDV5463,Missed Approach,Delta Air Lines,GSP,Commuter,*TC_71,Terminal C,,31,,,0,,,,2025-07-25 17:37:00,2025-07-25 21:29:00
+2025-07-26 00:00:00,N116DU,DAL1379,Missed Approach,Delta Air Lines,TVC,Narrow Body,*T4_A14,LGA-Unknown,,22-22-4-4,,,0,,,,2025-07-26 14:40:00,2025-07-26 15:35:00
+2025-07-26 00:00:00,N902XJ,EDV5450,Missed Approach,Delta Air Lines,YUL,Commuter,Gate_65,Terminal C,,4,,,0,,,,2025-07-26 12:23:00,2025-07-26 12:41:00
+2025-07-26 00:00:00,N223JQ,RPA5627,Missed Approach,Delta Air Lines,ORD,Commuter,Gate_83,Terminal C,,4,,,0,,,,2025-07-26 13:36:00,2025-07-26 13:57:00
+2025-07-26 00:00:00,N243JQ,RPA5636,Missed Approach,Delta Air Lines,ORF,Commuter,Gate_89A,Terminal C,,22-22-4-4,,,0,,,,2025-07-26 15:15:00,2025-07-26 15:26:00
+2025-07-27 00:00:00,N315PQ,EDV5010,Missed Approach,Delta Air Lines,BGR,Commuter,Gate_72,Terminal C,,22-22,,,0,,,,2025-07-27 20:07:00,2025-07-27 19:55:00
+2025-07-28 00:00:00,N3751B,DAL1792,Missed Approach,Delta Air Lines,TPA,Narrow Body,Gate_65,Terminal C,,4-4,,,0,,,,2025-07-28 13:11:00,2025-07-28 13:18:00
+2025-07-28 00:00:00,N118DY,DAL524,Missed Approach,Delta Air Lines,ATL,Narrow Body,Gate_84,Terminal C,,31,,,0,,,,2025-07-28 16:24:00,2025-07-28 16:42:00
+2025-07-28 00:00:00,N3751B,DAL716,Missed Approach,Delta Air Lines,DEN,Narrow Body,Gate_69,Terminal C,,22,,,0,,,,2025-07-28 23:37:00,2025-07-28 23:29:00
+2025-07-28 00:00:00,N329PQ,EDV4981,Missed Approach,Delta Air Lines,STL,Commuter,*TC_71,Terminal C,,31,,,0,,,,2025-07-28 11:27:00,2025-07-28 11:36:00
+2025-07-28 00:00:00,N185GJ,EDV5270,Missed Approach,Delta Air Lines,PWM,Commuter,Gate_73,Terminal C,,31,,,0,,,,2025-07-28 07:28:00,2025-07-28 07:38:00
+2025-07-28 00:00:00,N137EV,EDV5324,Missed Approach,Delta Air Lines,YHZ,Commuter,Gate_74,Terminal C,,4,,,0,,,,2025-07-28 14:46:00,2025-07-28 14:40:00
+2025-07-28 00:00:00,N913XJ,EDV5464,Missed Approach,Delta Air Lines,SYR,Commuter,Gate_70,Terminal C,,31,,,0,,,,2025-07-28 18:05:00,2025-07-28 18:27:00
+2025-07-28 00:00:00,N335PQ,EDV5534,Missed Approach,Delta Air Lines,CVG,Commuter,Gate_61,Terminal C,,31-31-4-4,,,0,,,,2025-07-28 15:25:00,2025-07-28 15:31:00
+2025-07-28 00:00:00,N879RW,RPA5664,Missed Approach,Delta Air Lines,STL,Commuter,Gate_94,Terminal C,,22,,,0,,,,2025-07-28 23:01:00,2025-07-28 23:17:00
+2025-07-28 00:00:00,N213JQ,RPA5744,Missed Approach,Delta Air Lines,BOS,Commuter,Gate_98,Terminal C,,31,,,0,,,,2025-07-28 11:13:00,2025-07-28 11:14:00
+2025-07-29 00:00:00,N166PQ,EDV5343,Missed Approach,Delta Air Lines,ROC,Commuter,Gate_75,Terminal C,,31,,,0,,,,2025-07-28 20:36:00,2025-07-29 12:55:00
+2025-07-29 00:00:00,N482PX,EDV5359,Missed Approach,Delta Air Lines,IND,Commuter,Gate_62,Terminal C,,22-22,,,0,,,,2025-07-29 16:53:00,2025-07-29 17:22:00
+2025-07-30 00:00:00,N774DE,DAL1884,Missed Approach,Delta Air Lines,TPA,Narrow Body,Gate_75,Terminal C,,22,,,0,,,,2025-07-30 17:41:00,2025-07-30 19:06:00
+2025-07-30 00:00:00,N243JQ,RPA5737,Missed Approach,Delta Air Lines,ACK,Commuter,Gate_92,Terminal C,,22,,,0,,,,2025-07-30 18:43:00,2025-07-30 18:44:00
+2025-07-31 00:00:00,N105DX,DAL2719,Missed Approach,Delta Air Lines,MSP,Narrow Body,Gate_75,Terminal C,,4,,,0,,,,2025-07-31 10:25:00,2025-07-31 10:20:00
+2025-07-31 00:00:00,N385DZ,DAL524,Missed Approach,Delta Air Lines,ATL,Narrow Body,Gate_67,Terminal C,,4-4,,,0,,,,2025-07-31 17:11:00,2025-07-31 22:02:00
+2025-08-01 00:00:00,N380DA,DAL1988,Missed Approach,Delta Air Lines,MYR,Narrow Body,Gate_68,Terminal C,,4,,,0,,,,2025-08-01 14:03:00,2025-08-01 14:08:00
+2025-08-02 00:00:00,N128DN,DAL2602,Missed Approach,Delta Air Lines,DTW,Narrow Body,Gate_84,Terminal C,,13,,,0,,,,2025-08-02 16:37:00,2025-08-02 16:23:00
+2025-08-02 00:00:00,N124DX,DAL520,Missed Approach,Delta Air Lines,ATL,Narrow Body,Gate_89A,Terminal C,,13,,,0,,,,2025-08-02 22:56:00,2025-08-02 23:01:00
+2025-08-02 00:00:00,N901XJ,EDV5109,Missed Approach,Delta Air Lines,RDU,Commuter,Gate_64,Terminal C,,13,,,0,,,,2025-08-02 17:14:00,2025-08-02 17:32:00
+2025-08-03 00:00:00,N600LR,EDV5237,Missed Approach,Delta Air Lines,ILM,Commuter,Gate_62,Terminal C,,31,,,0,,,,2025-08-03 08:45:00,2025-08-03 09:05:00
+2025-08-05 00:00:00,N485PX,EDV4951,Missed Approach,Delta Air Lines,MEM,Commuter,Gate_61,Terminal C,,4,,,0,,,,2025-08-05 09:20:00,2025-08-05 09:27:00
+2025-08-08 00:00:00,N390DA,DAL2346,Missed Approach,Delta Air Lines,MIA,Narrow Body,Gate_85,Terminal C,,22,,,0,,,,2025-08-08 20:28:00,2025-08-08 20:21:00
+2025-08-08 00:00:00,N917XJ,EDV5404,Missed Approach,Delta Air Lines,RDU,Commuter,Gate_63,Terminal C,,22,,,0,,,,2025-08-08 14:43:00,2025-08-08 14:45:00
+2025-08-08 00:00:00,N201JQ,RPA5711,Missed Approach,Delta Air Lines,CLT,Commuter,Gate_94,Terminal C,,22-4,,,0,,,,2025-08-08 13:24:00,2025-08-08 13:36:00
+2025-08-08 00:00:00,N203JQ,RPA5737,Missed Approach,Delta Air Lines,ACK,Commuter,Gate_93,Terminal C,,22,,,0,,,,2025-08-08 17:45:00,2025-08-08 18:00:00
+2025-08-10 00:00:00,N310PQ,EDV5267,Missed Approach,Delta Air Lines,SAV,Commuter,Gate_76,Terminal C,,22,,,0,,,,2025-08-10 14:47:00,2025-08-10 14:47:00
+2025-08-11 00:00:00,N827DN,DAL2347,Missed Approach,Delta Air Lines,MIA,Narrow Body,Gate_77,Terminal C,,22,,,0,,,,2025-08-11 14:06:00,2025-08-11 14:04:00
+2025-08-11 00:00:00,N391DN,DAL997,Missed Approach,Delta Air Lines,ATL,Narrow Body,Gate_88A,Terminal C,,22,,,0,,,,2025-08-11 19:01:00,2025-08-11 19:06:00
+2025-08-12 00:00:00,N127DN,DAL1995,Missed Approach,Delta Air Lines,FLL,Narrow Body,Gate_76,Terminal C,,22,,,0,,,,2025-08-12 13:49:00,2025-08-12 14:06:00
+2025-08-13 00:00:00,N112DU,DAL403,Missed Approach,Delta Air Lines,BOS,Narrow Body,Gate_85,Terminal C,,22,,,0,,,,2025-08-13 17:07:00,2025-08-13 21:59:00
+2025-08-13 00:00:00,N236JQ,RPA5764,Missed Approach,Delta Air Lines,BUF,Commuter,Gate_81,Terminal C,,22,,,0,,,,2025-08-13 07:20:00,2025-08-13 07:20:00
+2025-08-14 00:00:00,N774DE,DAL2396,Missed Approach,Delta Air Lines,PBI,Narrow Body,Gate_77,Terminal C,,22,,,0,,,,2025-08-14 17:31:00,2025-08-14 19:48:00
+2025-08-14 00:00:00,N126DN,DAL525,Missed Approach,Delta Air Lines,ATL,Narrow Body,Gate_83,Terminal C,,22,,,0,,,,2025-08-14 14:24:00,2025-08-14 14:35:00
+2025-08-14 00:00:00,N246JQ,RPA5662,Missed Approach,Delta Air Lines,MVY,Commuter,Gate_92,Terminal C,,22-22,,,0,,,,2025-08-14 12:56:00,2025-08-14 13:21:00
+2025-08-14 00:00:00,N201JQ,RPA5711,Missed Approach,Delta Air Lines,CLT,Commuter,Gate_94,Terminal C,,22-22,,,0,,,,2025-08-14 13:27:00,2025-08-14 13:44:00
+2025-08-15 00:00:00,N205JQ,RPA5721,Missed Approach,Delta Air Lines,BOS,Commuter,Gate_81,Terminal C,,22,,,0,,,,2025-08-15 18:06:00,2025-08-15 18:27:00
+2025-08-16 00:00:00,N3772H,DAL2723,Missed Approach,Delta Air Lines,TPA,Narrow Body,Gate_69,Terminal C,,13,,,0,,,,2025-08-16 09:40:00,2025-08-16 09:46:00
+2025-08-16 00:00:00,N485PX,EDV4807,Missed Approach,Delta Air Lines,TYS,Commuter,Gate_65,Terminal C,,13,,,0,,,,2025-08-16 12:36:00,2025-08-16 12:53:00
+2025-08-17 00:00:00,N323DU,DAL1074,Missed Approach,Delta Air Lines,ORD,Narrow Body,Gate_95,Terminal C,,22,,,0,,,,2025-08-17 19:00:00,2025-08-17 19:07:00
+2025-08-17 00:00:00,N133EV,EDV5237,Missed Approach,Delta Air Lines,ILM,Commuter,Gate_71,Terminal C,,31,,,0,,,,2025-08-17 08:07:00,2025-08-17 08:18:00
+2025-08-17 00:00:00,N313PQ,EDV5474,Missed Approach,Delta Air Lines,YHZ,Commuter,Gate_76,Terminal C,,31,,,0,,,,2025-08-17 07:28:00,2025-08-17 07:56:00
+2025-08-19 00:00:00,N478PX,EDV4936,Missed Approach,Delta Air Lines,BHM,Commuter,Gate_TB_15,Terminal B,,4,,,0,,,,2025-08-19 14:10:00,2025-08-19 15:00:00
+2025-08-19 00:00:00,N317DU,DAL2310,Missed Approach,Delta Air Lines,RSW,Narrow Body,Gate_72,Terminal C,,22,,,0,,,,2025-08-19 22:37:00,2025-08-19 22:29:00
+2025-08-20 00:00:00,N135DQ,DAL1105,Missed Approach,Delta Air Lines,SRQ,Narrow Body,Gate_83,Terminal C,,4,,,0,,,,2025-08-20 18:52:00,2025-08-20 19:09:00
+2025-08-20 00:00:00,N374DX,DAL1669,Missed Approach,Delta Air Lines,DTW,Narrow Body,Gate_69,Terminal C,,4,,,0,,,,2025-08-20 14:18:00,2025-08-20 14:36:00
+2025-08-20 00:00:00,N385DZ,DAL997,Missed Approach,Delta Air Lines,ATL,Narrow Body,Gate_86,Terminal C,,4,,,0,,,,2025-08-20 19:40:00,2025-08-20 20:19:00
+2025-08-20 00:00:00,N931XJ,EDV5404,Missed Approach,Delta Air Lines,RDU,Commuter,Gate_78,Terminal C,,4,,,0,,,,2025-08-20 15:42:00,2025-08-20 15:25:00
+2025-08-21 00:00:00,N216JQ,RPA5764,Missed Approach,Delta Air Lines,BUF,Commuter,Gate_94,Terminal C,,4,,,0,,,,2025-08-21 07:18:00,2025-08-21 07:37:00
+2025-08-23 00:00:00,N368DN,DAL1953,Missed Approach,Delta Air Lines,MCO,Narrow Body,Gate_85,Terminal C,,22-22,,,0,,,,2025-08-23 13:27:00,2025-08-23 14:58:00
+2025-08-25 00:00:00,N300PQ,EDV5240,Missed Approach,Delta Air Lines,CVG,Commuter,Gate_81,Terminal C,,22,,,0,,,,2025-08-25 19:34:00,2025-08-25 19:45:00
+2025-08-25 00:00:00,N216JQ,RPA5730,Missed Approach,Delta Air Lines,BOS,Commuter,Gate_98,Terminal C,,22,,,0,,,,2025-08-25 15:20:00,2025-08-25 15:13:00
+2025-08-27 00:00:00,N346DN,DAL623,Missed Approach,Delta Air Lines,FLL,Narrow Body,Gate_64,Terminal C,,31,,,0,,,,2025-08-27 22:39:00,2025-08-27 23:03:00
+2025-08-28 00:00:00,N217JQ,RPA5677,Missed Approach,Delta Air Lines,PWM,Commuter,Gate_92,Terminal C,,22,,,0,,,,2025-08-28 18:05:00,2025-08-28 17:57:00
+2025-08-31 00:00:00,N331PQ,EDV4875,Missed Approach,Delta Air Lines,JAX,Commuter,Gate_75,Terminal C,,31,,,0,,,,2025-08-31 13:39:00,2025-08-31 13:52:00
+2025-08-31 00:00:00,N292PQ,EDV4887,Missed Approach,Delta Air Lines,CMH,Commuter,Gate_79,Terminal C,,31-31-4-4,,,0,,,,2025-08-31 15:29:00,2025-08-31 15:36:00
+2025-05-31 00:00:00,N361FR,FFT4348,Missed Approach,Frontier Airlines,ATL,Narrow Body,Gate_TB_42,Terminal B,,22,,,0,,,,2025-05-31 10:19:00,2025-05-31 10:58:00
+2025-06-14 00:00:00,N309FR,FFT3288,Missed Approach,Frontier Airlines,ATL,Narrow Body,Gate_TB_41,Terminal B,,4,,,0,,,,2025-06-14 00:33:00,2025-06-14 10:54:00
+2025-06-30 00:00:00,N654FR,FFT3288,Missed Approach,Frontier Airlines,ATL,Narrow Body,Gate_TB_42,Terminal B,,31-4,,,0,,,,2025-06-29 23:38:00,2025-06-30 00:31:00
+2025-06-30 00:00:00,N232FR,FFT4348,Missed Approach,Frontier Airlines,ATL,Narrow Body,Gate_TB_42,Terminal B,,4,,,0,,,,2025-06-30 10:40:00,2025-06-30 12:36:00
+2025-07-14 00:00:00,N368FR,FFT4348,Missed Approach,Frontier Airlines,ATL,Narrow Body,Gate_TB_42,Terminal B,,22,,,0,,,,2025-07-14 10:23:00,2025-07-14 10:35:00
+2025-07-22 00:00:00,N668FR,FFT3092,Missed Approach,Frontier Airlines,CLE,Narrow Body,Gate_TB_42,Terminal B,,22,,,0,,,,2025-07-22 16:11:00,2025-07-22 16:15:00
+2025-07-29 00:00:00,N620FR,FFT3314,Missed Approach,Frontier Airlines,RDU,Narrow Body,Gate_TB_42,Terminal B,,22-22,,,0,,,,2025-07-29 15:49:00,2025-07-29 15:40:00
+2025-08-02 00:00:00,N350FR,FFT3134,Missed Approach,Frontier Airlines,CLT,Narrow Body,Gate_TB_42,Terminal B,,31-31,,,0,,,,2025-08-02 11:30:55,2025-08-02 12:52:00
+2025-08-05 00:00:00,N329FR,FFT4348,Missed Approach,Frontier Airlines,ATL,Narrow Body,Gate_TB_42,Terminal B,,4,,,0,,,,2025-08-05 10:23:00,2025-08-05 10:46:00
+2025-08-16 00:00:00,N657FR,FFT3424,Missed Approach,Frontier Airlines,DFW,Narrow Body,Gate_TB_41,Terminal B,,13,,,0,,,,2025-08-16 20:48:00,2025-08-16 20:55:00
+2025-07-26 00:00:00,N435N,JTZ435,Missed Approach,General Aviation,ACK,Unknown,Unknown,LGA-Unknown,,22-22-4-4,,,0,,,,,2025-07-26 15:21:59
+2025-08-13 00:00:00,N94,FLC94,Missed Approach,General Aviation,OKC,General Aviation,Unknown,LGA-Unknown,,22,,,0,,,,2025-08-12 23:43:00,2025-08-13 00:03:00
+2025-08-26 00:00:00,N660RB,JTZ660,Missed Approach,General Aviation,SAV,Unknown,Unknown,LGA-Unknown,,31,,,0,,,,,2025-08-26 09:51:00
+2025-06-09 00:00:00,N632JB,JBU8356,Missed Approach,JetBlue Airways,LGA,Narrow Body,Gate_TB_59,Terminal B,,4,,,0,,,,,2025-06-09 11:11:00
+2025-08-30 00:00:00,N554JB,JBU698,Missed Approach,JetBlue Airways,MCO,Narrow Body,Gate_TB_59,Terminal B,,31,,,0,,,,2025-08-30 14:43:12,2025-08-30 14:46:00
+2025-06-23 00:00:00,C-GKXK,POE603,Missed Approach,Porter Airlines,YYZ,Unknown,Gate_TB_59,Terminal B,,4,,,0,,,,2025-06-23 08:55:00,2025-06-23 08:46:00
+2025-07-19 00:00:00,C-GKQK,POE605,Missed Approach,Porter Airlines,YYZ,Unknown,Gate_TB_40,Terminal B,,22,,,0,,,,2025-07-19 16:30:00,2025-07-19 16:16:00
+2025-08-31 00:00:00,C-GKQN,POE607,Missed Approach,Porter Airlines,YYZ,Unknown,Gate_TB_40,Terminal B,,22,,,0,,,,2025-08-31 21:05:00,2025-08-31 20:49:00
+2025-06-17 00:00:00,N234JQ,RPA5854,Missed Approach,Republic Airways,GSO,Commuter,Gate_TA_5,Terminal A,,4,,,0,,,,2025-06-17 07:23:00,2025-06-17 08:51:00
+2025-05-26 00:00:00,N8817L,SWA1464,Missed Approach,Southwest Airlines,ATL,Narrow Body,Gate_TB_54,Terminal B,,22-22-31-31,,,0,,,,2025-05-26 14:47:00,2025-05-26 14:43:00
+2025-05-28 00:00:00,N8928Q,SWA2051,Missed Approach,Southwest Airlines,MDW,Narrow Body,Gate_TB_55,Terminal B,,4,,,0,,,,2025-05-28 23:23:41,2025-05-28 23:29:00
+2025-05-29 00:00:00,N8923Q,SWA1286,Missed Approach,Southwest Airlines,MCI,Narrow Body,Gate_TB_56,Terminal B,,4,,,0,,,,2025-05-29 10:22:00,2025-05-29 10:12:00
+2025-06-02 00:00:00,N8803L,SWA2001,Missed Approach,Southwest Airlines,STL,Narrow Body,Gate_TB_56,Terminal B,,22,,,0,,,,2025-06-02 12:57:00,2025-06-02 13:12:00
+2025-06-07 00:00:00,N8920Q,SWA869,Missed Approach,Southwest Airlines,HOU,Narrow Body,Gate_TB_56,Terminal B,,22-22,,,0,,,,2025-06-07 17:12:42,2025-06-07 17:17:00
+2025-06-09 00:00:00,N7750A,SWA3759,Missed Approach,Southwest Airlines,DEN,Narrow Body,Gate_TB_57,Terminal B,,4-4,,,0,,,,2025-06-09 16:14:44,2025-06-09 16:25:00
+2025-06-19 00:00:00,N7821L,SWA359,Missed Approach,Southwest Airlines,DEN,Narrow Body,Gate_TB_57,Terminal B,,22-22,,,0,,,,2025-06-19 11:52:00,2025-06-19 11:52:00
+2025-06-20 00:00:00,N8915Q,SWA1143,Missed Approach,Southwest Airlines,BNA,Narrow Body,Gate_TB_48,Terminal B,,22,,,0,,,,2025-06-20 00:15:00,2025-06-20 00:12:00
+2025-06-28 00:00:00,N8538V,SWA1189,Missed Approach,Southwest Airlines,STL,Narrow Body,Gate_TB_48,Terminal B,,22,,,0,,,,2025-06-28 16:47:00,2025-06-28 16:55:00
+2025-07-14 00:00:00,N8517F,SWA416,Missed Approach,Southwest Airlines,ATL,Narrow Body,Gate_TB_54,Terminal B,,4,,,0,,,,2025-07-14 22:10:01,2025-07-14 23:33:00
+2025-07-20 00:00:00,N8931L,SWA359,Missed Approach,Southwest Airlines,DEN,Narrow Body,Gate_TB_57,Terminal B,,22,,,0,,,,2025-07-20 13:02:00,2025-07-20 13:19:00
+2025-07-30 00:00:00,N258WN,SWA1139,Missed Approach,Southwest Airlines,BNA,Narrow Body,Gate_TB_48,Terminal B,,4,,,0,,,,2025-07-30 21:03:00,2025-07-30 21:11:00
+2025-07-30 00:00:00,N237WN,SWA697,Missed Approach,Southwest Airlines,DEN,Narrow Body,Gate_TB_57,Terminal B,,4,,,0,,,,2025-07-30 18:12:00,2025-07-30 20:18:00
+2025-08-01 00:00:00,N254WN,SWA1142,Missed Approach,Southwest Airlines,BNA,Narrow Body,Gate_TB_57,Terminal B,,4,,,0,,,,2025-08-01 20:21:00,2025-08-01 21:11:00
+2025-08-05 00:00:00,N8609A,SWA695,Missed Approach,Southwest Airlines,DAL,Narrow Body,Gate_TB_57,Terminal B,,4,,,0,,,,2025-08-05 16:52:42,2025-08-05 16:41:00
+2025-08-10 00:00:00,N8640D,SWA3707,Missed Approach,Southwest Airlines,MDW,Narrow Body,Gate_TB_56,Terminal B,,22,,,0,,,,2025-08-10 14:37:00,2025-08-10 14:53:00
+2025-08-20 00:00:00,N8321D,SWA1095,Missed Approach,Southwest Airlines,BNA,Narrow Body,Gate_TB_48,Terminal B,,4,,,0,,,,2025-08-20 14:37:00,2025-08-20 14:27:00
+2025-08-20 00:00:00,N249WN,SWA653,Missed Approach,Southwest Airlines,STL,Narrow Body,Gate_TB_48,Terminal B,,4,,,0,,,,2025-08-20 20:41:00,2025-08-20 20:30:00
+2025-05-26 00:00:00,N655NK,NKS2177,Missed Approach,Spirit Airlines,MIA,Narrow Body,Gate_TA_4,Terminal A,,22,,,0,,,,2025-05-26 17:17:00,2025-05-26 17:09:00
+2025-05-31 00:00:00,N717NK,NKS2636,Missed Approach,Spirit Airlines,RIC,Narrow Body,Gate_TA_1,Terminal A,,31,,,0,,,,2025-05-31 12:49:00,2025-05-31 12:47:00
+2025-06-07 00:00:00,N690NK,NKS2175,Missed Approach,Spirit Airlines,ORD,Narrow Body,Gate_TA_5,Terminal A,,4,,,0,,,,2025-06-07 08:47:00,2025-06-07 08:41:00
+2025-06-11 00:00:00,N742NK,NKS2449,Missed Approach,Spirit Airlines,DFW,Narrow Body,Gate_TA_4,Terminal A,,22,,,0,,,,2025-06-11 14:47:00,2025-06-11 16:23:00
+2025-06-12 00:00:00,N724NK,NKS2473,Missed Approach,Spirit Airlines,MYR,Narrow Body,Gate_TA_1,Terminal A,,22-22-31-31,,,0,,,,2025-06-12 22:03:00,2025-06-12 22:07:00
+2025-06-22 00:00:00,N923NK,NKS2280,Missed Approach,Spirit Airlines,MCO,Narrow Body,Gate_TA_5,Terminal A,,22,,,0,,,,2025-06-22 19:21:00,2025-06-22 21:37:00
+2025-06-28 00:00:00,N629NK,NKS2175,Missed Approach,Spirit Airlines,ORD,Narrow Body,Gate_TA_6,Terminal A,,4,,,0,,,,2025-06-28 08:49:00,2025-06-28 08:48:00
+2025-07-13 00:00:00,N644NK,NKS1696,Missed Approach,Spirit Airlines,MYR,Narrow Body,Gate_TA_2,Terminal A,,22,,,0,,,,2025-07-13 23:59:00,2025-07-14 00:08:00
+2025-07-19 00:00:00,N603NK,NKS1195,Missed Approach,Spirit Airlines,DTW,Narrow Body,Gate_TA_6,Terminal A,,13,,,0,,,,2025-07-19 10:19:00,2025-07-19 10:21:00
+2025-08-07 00:00:00,N661NK,NKS1703,Missed Approach,Spirit Airlines,MCO,Narrow Body,Gate_TA_1,Terminal A,,22,,,0,,,,2025-08-07 22:58:00,2025-08-08 00:07:00
+2025-08-08 00:00:00,N621NK,NKS1694,Missed Approach,Spirit Airlines,DFW,Narrow Body,Gate_TA_2,Terminal A,,22,,,0,,,,2025-08-08 14:05:00,2025-08-08 14:34:00
+2025-08-10 00:00:00,N643NK,NKS1178,Missed Approach,Spirit Airlines,MIA,Narrow Body,Gate_TA_2,Terminal A,,22,,,0,,,,2025-08-10 17:17:00,2025-08-10 17:49:00
+2025-06-01 00:00:00,N77538,UAL293,Missed Approach,United Airlines,ORD,Narrow Body,Gate_TB_43_43A,Terminal B,,22,,,0,,,,2025-06-01 14:06:00,2025-06-01 14:19:00
+2025-06-01 00:00:00,N73276,UAL743,Missed Approach,United Airlines,ORD,Narrow Body,Gate_TB_45,Terminal B,,22,,,0,,,,2025-06-01 11:57:00,2025-06-01 11:51:00
+2025-06-12 00:00:00,N47291,UAL598,Missed Approach,United Airlines,DEN,Narrow Body,Gate_TB_47,Terminal B,,22-22,,,0,,,,2025-06-12 17:14:00,2025-06-12 17:16:00
+2025-06-23 00:00:00,N743YX,RPA3704,Missed Approach,United Airlines,IAD,Commuter,Gate_TB_45,Terminal B,,22,,,0,,,,2025-06-23 14:06:00,2025-06-23 13:41:00
+2025-06-24 00:00:00,N754YX,RPA3497,Missed Approach,United Airlines,IAD,Commuter,Gate_TB_45,Terminal B,,22,,,0,,,,2025-06-24 18:38:00,2025-06-24 18:43:00
+2025-06-24 00:00:00,N26232,UAL2181,Missed Approach,United Airlines,IAH,Narrow Body,Gate_TB_46,Terminal B,,22-22-31-31,,,0,,,,2025-06-24 16:44:00,2025-06-24 16:44:00
+2025-06-25 00:00:00,N76508,UAL2140,Missed Approach,United Airlines,IAH,Narrow Body,Gate_TB_45,Terminal B,,4-4,,,0,,,,2025-06-25 20:53:00,2025-06-25 21:48:00
+2025-07-09 00:00:00,N17321,UAL2395,Missed Approach,United Airlines,DEN,Narrow Body,Gate_TB_46,Terminal B,,31,,,0,,,,2025-07-09 14:01:00,2025-07-09 14:02:00
+2025-07-17 00:00:00,N17355,UAL1373,Missed Approach,United Airlines,IAH,Narrow Body,Gate_TB_47,Terminal B,,31,,,0,,,,2025-07-16 23:14:00,2025-07-17 00:22:00
+2025-07-31 00:00:00,N13248,UAL2189,Missed Approach,United Airlines,ORD,Narrow Body,Gate_TB_45,Terminal B,,4,,,0,,,,2025-07-31 18:48:00,2025-07-31 20:10:00
+2025-08-17 00:00:00,N17341,UAL1333,Missed Approach,United Airlines,DEN,Narrow Body,Gate_TB_47,Terminal B,,Unknown,,,0,,,,2025-08-17 00:01:00,2025-08-17 00:30:00
+2025-08-17 00:00:00,N18220,UAL2488,Missed Approach,United Airlines,ORD,Narrow Body,Gate_TB_45,Terminal B,,22-22,,,0,,,,2025-08-17 15:07:00,2025-08-17 15:12:00
+2025-08-27 00:00:00,N77536,UAL2140,Missed Approach,United Airlines,IAH,Narrow Body,Gate_TB_44,Terminal B,,31,,,0,,,,2025-08-27 20:45:00,2025-08-27 20:58:00
+2025-08-27 00:00:00,N47288,UAL2446,Missed Approach,United Airlines,DEN,Narrow Body,Gate_TB_44,Terminal B,,31,,,0,,,,2025-08-27 15:26:00,2025-08-27 15:21:00
