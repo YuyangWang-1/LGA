@@ -7,8 +7,8 @@
 
 **Team Members:**  
 - Yuyang Wang (yw9001@nyu.edu)  
-- Ruisi Dai (rd3686@nyu.edu, (332) 285-6647)  
-- Yijie Tang (yt2973@nyu.edu, (551) 344-5162)  
+- Ruisi Dai (rd3686@nyu.edu)  
+- Yijie Tang (yt2973@nyu.edu)  
 
 ---
 
